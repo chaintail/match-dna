@@ -37,7 +37,7 @@ pnpm dev
 
 Open the studio at `http://localhost:5173`. The gateway listens at `http://localhost:8787`.
 
-The default showcase is fully offline and needs no credentials. It is intentionally labeled **synthetic fixture** and **synthetic proof replay** throughout the interface.
+The default showcase is fully offline and needs no credentials. It is intentionally labeled **offline proof replay** and **synthetic fixture** in the interface, and the Proof Microscope reports its mode as **synthetic**.
 
 ### Production build
 
