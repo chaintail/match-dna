@@ -1,0 +1,2115 @@
+{
+  "schemaVersion": "match-dna-timeline@1",
+  "fixtureId": "match-dna-showcase-001",
+  "fixtureName": "Aurora FC vs Meridian Athletic",
+  "kickoffAt": 1784397600000,
+  "compiledAt": 1784403660000,
+  "compilerVersion": "1.0.0",
+  "generatorVersion": "radial-organism-v1",
+  "rings": [
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5947992,
+        "start": 1784397600000,
+        "end": 1784397900000,
+        "durationMs": 300000
+      },
+      "ordinal": 0,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "journalHeadHash": "0x73239a953caebe1286cb4f827dd9010908ba1eb9459234e8cdeb8a0b8926df94",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784397600000,
+        "probabilities": {
+          "home": 0.3333333333333333,
+          "draw": 0.3333333333333333,
+          "away": 0.3333333333333333
+        },
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "stats": {
+          "homeYellowCards": 0,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 0,
+          "homeShots": 0,
+          "awayShots": 0
+        },
+        "statusId": 0,
+        "period": 0,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784397900000,
+        "probabilities": {
+          "home": 0.216,
+          "draw": 0.28400000000000003,
+          "away": 0.5
+        },
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "stats": {
+          "homeYellowCards": 0,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 0,
+          "homeShots": 0,
+          "awayShots": 0
+        },
+        "statusId": 10,
+        "period": 1,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.9421726124403266,
+        "fragility": 0.2563492484425959,
+        "drawThreat": 0,
+        "volatility": 0.1594428899529809,
+        "shock": 0.6377715598119236,
+        "dominance": -0.28400000000000003
+      },
+      "geometry": {
+        "baseRadius": 0.14,
+        "radialVariance": 0.11334372937837121,
+        "branchDensity": 0.26204344956990777,
+        "scarDensity": 0,
+        "spikeDensity": 0.02563492484425959,
+        "turbulence": 0.41497156421101133,
+        "asymmetry": -0.28400000000000003,
+        "membranePressure": 0.1922619363319469,
+        "eventPulse": 0,
+        "phase": 0
+      },
+      "audio": {
+        "rootMidi": 52,
+        "mode": "dorian",
+        "tempo": 80,
+        "density": 0.47018827751242187,
+        "dissonance": 0.6664601152153894,
+        "heartbeat": 0.36789686117620646,
+        "mutation": 0.25510862392476946
+      },
+      "eventCounts": {
+        "kickoff": 1
+      },
+      "canonicalRingHash": "0x88ecacdf62fb67756c4a174e407c13a97dba687c8785c3fcd65c31ab1479547e",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5947993,
+        "start": 1784397900000,
+        "end": 1784398200000,
+        "durationMs": 300000
+      },
+      "ordinal": 1,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x88ecacdf62fb67756c4a174e407c13a97dba687c8785c3fcd65c31ab1479547e",
+      "journalHeadHash": "0x0104f94a0767067cdf199d0931e66d897394ef6356c307bdeb2abd7e2a7038c3",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784397900000,
+        "probabilities": {
+          "home": 0.216,
+          "draw": 0.28400000000000003,
+          "away": 0.5
+        },
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "stats": {
+          "homeYellowCards": 0,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 0,
+          "homeShots": 0,
+          "awayShots": 0
+        },
+        "statusId": 10,
+        "period": 1,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784398200000,
+        "probabilities": {
+          "home": 0.16285714285714287,
+          "draw": 0.25142857142857145,
+          "away": 0.5857142857142856
+        },
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "stats": {
+          "homeYellowCards": 0,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 0,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.8701886913062821,
+        "fragility": 0.29188522369434566,
+        "drawThreat": 0,
+        "volatility": 0.21768777223523209,
+        "shock": 0.39242241908198566,
+        "dominance": -0.42285714285714276
+      },
+      "geometry": {
+        "baseRadius": 0.15450000000000003,
+        "radialVariance": 0.10665336833808076,
+        "branchDensity": 0.2227875870531177,
+        "scarDensity": 0,
+        "spikeDensity": 0.08918852236943456,
+        "turbulence": 0.43116978681675966,
+        "asymmetry": -0.42285714285714276,
+        "membranePressure": 0.21891391777075925,
+        "eventPulse": 0.04,
+        "phase": 0.61803398875
+      },
+      "audio": {
+        "rootMidi": 51,
+        "mode": "dorian",
+        "tempo": 83,
+        "density": 0.4846391536497028,
+        "dissonance": 0.6247094409576436,
+        "heartbeat": 0.3981024401401938,
+        "mutation": 0.15696896763279428
+      },
+      "eventCounts": {
+        "corner": 1
+      },
+      "canonicalRingHash": "0x8dac33b41411a5bec65996593d13618bd45994d2c3666e95b77d5d8d3a114481",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5947994,
+        "start": 1784398200000,
+        "end": 1784398500000,
+        "durationMs": 300000
+      },
+      "ordinal": 2,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x8dac33b41411a5bec65996593d13618bd45994d2c3666e95b77d5d8d3a114481",
+      "journalHeadHash": "0x435a1082f5e29b23728c0f51c542c390e57ffe06c0c41a8f18e19ca0e2bc89fd",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784398200000,
+        "probabilities": {
+          "home": 0.16285714285714287,
+          "draw": 0.25142857142857145,
+          "away": 0.5857142857142856
+        },
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "stats": {
+          "homeYellowCards": 0,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 0,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784398500000,
+        "probabilities": {
+          "home": 0.10250000000000001,
+          "draw": 0.20625000000000002,
+          "away": 0.6912499999999999
+        },
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 0,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 0,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.7412355939202877,
+        "fragility": 0.09377500081998491,
+        "drawThreat": 0.11515625000000002,
+        "volatility": 0.2973754895781951,
+        "shock": 0.5364386416070841,
+        "dominance": -0.5887499999999999
+      },
+      "geometry": {
+        "baseRadius": 0.169,
+        "radialVariance": 0.13107829303657098,
+        "branchDensity": 0.5258301826571335,
+        "scarDensity": 0.023031250000000003,
+        "spikeDensity": 0.009377500081998492,
+        "turbulence": 0.4466283499304706,
+        "asymmetry": -0.5887499999999999,
+        "membranePressure": 0.09912031311498869,
+        "eventPulse": 0.65,
+        "phase": 0.23606797750000008
+      },
+      "audio": {
+        "rootMidi": 50,
+        "mode": "minor",
+        "tempo": 82,
+        "density": 0.4977070852431248,
+        "dissonance": 0.5706447694737669,
+        "heartbeat": 0.22970875069698715,
+        "mutation": 0.9145754566428336
+      },
+      "eventCounts": {
+        "goal": 1
+      },
+      "canonicalRingHash": "0x3983e0bf9ca4502af594f01b2d1a427b89d627ab0e190a579eadc3370d4707ca",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5947995,
+        "start": 1784398500000,
+        "end": 1784398800000,
+        "durationMs": 300000
+      },
+      "ordinal": 3,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x3983e0bf9ca4502af594f01b2d1a427b89d627ab0e190a579eadc3370d4707ca",
+      "journalHeadHash": "0x5427f442a290de6c685c526840aa140763a0615a52069eb6f2911f6837dd819a",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784398500000,
+        "probabilities": {
+          "home": 0.10250000000000001,
+          "draw": 0.20625000000000002,
+          "away": 0.6912499999999999
+        },
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 0,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 0,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784398800000,
+        "probabilities": {
+          "home": 0.1125,
+          "draw": 0.23125,
+          "away": 0.65625
+        },
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 0,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.7835528095396268,
+        "fragility": 0.11338700911919808,
+        "drawThreat": 0.14517361111111113,
+        "volatility": 0.27049222695153635,
+        "shock": 0.18984243907156,
+        "dominance": -0.54375
+      },
+      "geometry": {
+        "baseRadius": 0.18350000000000002,
+        "radialVariance": 0.10197757158628575,
+        "branchDensity": 0.1903747902514496,
+        "scarDensity": 0.10903472222222223,
+        "spikeDensity": 0.011338700911919809,
+        "turbulence": 0.44115234292206285,
+        "asymmetry": -0.54375,
+        "membranePressure": 0.12133365961717635,
+        "eventPulse": 0.08,
+        "phase": 0.85410196625
+      },
+      "audio": {
+        "rootMidi": 50,
+        "mode": "dorian",
+        "tempo": 81,
+        "density": 0.49303757611351684,
+        "dissonance": 0.6005918795329835,
+        "heartbeat": 0.24637895775131835,
+        "mutation": 0.075936975628624
+      },
+      "eventCounts": {
+        "yellow_card": 1
+      },
+      "canonicalRingHash": "0x688142dd0b00894fc6396cc1f73b3368e224ef59b270b95773455d4315e80332",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5947996,
+        "start": 1784398800000,
+        "end": 1784399100000,
+        "durationMs": 300000
+      },
+      "ordinal": 4,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x688142dd0b00894fc6396cc1f73b3368e224ef59b270b95773455d4315e80332",
+      "journalHeadHash": "0xcccb7a673621bc1abb565231ca9d5f1a4611f00b3bea4bbac6efc885a5011058",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784398800000,
+        "probabilities": {
+          "home": 0.1125,
+          "draw": 0.23125,
+          "away": 0.65625
+        },
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 0,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784399100000,
+        "probabilities": {
+          "home": 0.1690909090909091,
+          "draw": 0.25363636363636366,
+          "away": 0.5772727272727273
+        },
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.8789792631088734,
+        "fragility": 0.15554058595646214,
+        "drawThreat": 0.1768409090909091,
+        "volatility": 0.31324577935525966,
+        "shock": 0.4415064365664295,
+        "dominance": -0.4081818181818182
+      },
+      "geometry": {
+        "baseRadius": 0.198,
+        "radialVariance": 0.12728969084359681,
+        "branchDensity": 0.23064102985062873,
+        "scarDensity": 0.03536818181818182,
+        "spikeDensity": 0.04055405859564622,
+        "turbulence": 0.485660616529345,
+        "asymmetry": -0.4081818181818182,
+        "membranePressure": 0.16086566674007388,
+        "eventPulse": 0,
+        "phase": 0.47213595500000016
+      },
+      "audio": {
+        "rootMidi": 50,
+        "mode": "dorian",
+        "tempo": 84,
+        "density": 0.5362632431486872,
+        "dissonance": 0.6616393362395102,
+        "heartbeat": 0.2822094980629928,
+        "mutation": 0.1766025746265718
+      },
+      "eventCounts": {
+        "shot": 1
+      },
+      "canonicalRingHash": "0x953923f14f6350c69ec6a40e632fe0e76c68b09cd149b96ed54e98586ff6cda4",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5947997,
+        "start": 1784399100000,
+        "end": 1784399400000,
+        "durationMs": 300000
+      },
+      "ordinal": 5,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x953923f14f6350c69ec6a40e632fe0e76c68b09cd149b96ed54e98586ff6cda4",
+      "journalHeadHash": "0x2bdb58ba824bd3d086c0d5fc5a623fcae6dac626a633b381b84fcb0d1ac739eb",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784399100000,
+        "probabilities": {
+          "home": 0.1690909090909091,
+          "draw": 0.25363636363636366,
+          "away": 0.5772727272727273
+        },
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784399400000,
+        "probabilities": {
+          "home": 0.2918181818181818,
+          "draw": 0.26272727272727275,
+          "away": 0.44545454545454544
+        },
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.9746870184108557,
+        "fragility": 0.2362794705563157,
+        "drawThreat": 0.20142424242424242,
+        "volatility": 0.38717290826749295,
+        "shock": 0.6089542950041927,
+        "dominance": -0.15363636363636363
+      },
+      "geometry": {
+        "baseRadius": 0.21250000000000002,
+        "radialVariance": 0.15231792413844222,
+        "branchDensity": 0.25743268720067086,
+        "scarDensity": 0.040284848484848486,
+        "spikeDensity": 0.023627947055631572,
+        "turbulence": 0.5473762435975094,
+        "asymmetry": -0.15363636363636363,
+        "membranePressure": 0.22756566352329738,
+        "eventPulse": 0,
+        "phase": 0.09016994375000031
+      },
+      "audio": {
+        "rootMidi": 50,
+        "mode": "dorian",
+        "tempo": 88,
+        "density": 0.5957610563494846,
+        "dissonance": 0.7215748343146599,
+        "heartbeat": 0.3508375499728683,
+        "mutation": 0.2435817180016771
+      },
+      "eventCounts": {},
+      "canonicalRingHash": "0xde25407258c219d9af2095a2580c4dc5a8954cbc60f743f16c6e1d28ca06c5c2",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5947998,
+        "start": 1784399400000,
+        "end": 1784399700000,
+        "durationMs": 300000
+      },
+      "ordinal": 6,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0xde25407258c219d9af2095a2580c4dc5a8954cbc60f743f16c6e1d28ca06c5c2",
+      "journalHeadHash": "0x1f811b8e47220de4e90bba9960aefa39d64c2596f45e9cc91a4aae0d6e47cfa1",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784399400000,
+        "probabilities": {
+          "home": 0.2918181818181818,
+          "draw": 0.26272727272727275,
+          "away": 0.44545454545454544
+        },
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784399700000,
+        "probabilities": {
+          "home": 0.15,
+          "draw": 0.28,
+          "away": 0.57
+        },
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.875109608935432,
+        "fragility": 0.18486935610369715,
+        "drawThreat": 0.2341111111111111,
+        "volatility": 0.45512753362489616,
+        "shock": 0.6589914096971057,
+        "dominance": -0.41999999999999993
+      },
+      "geometry": {
+        "baseRadius": 0.22700000000000004,
+        "radialVariance": 0.1680523547312787,
+        "branchDensity": 0.2654386255515369,
+        "scarDensity": 0.04682222222222222,
+        "spikeDensity": 0.018486935610369716,
+        "turbulence": 0.562844257459488,
+        "asymmetry": -0.41999999999999993,
+        "membranePressure": 0.19717979485555065,
+        "eventPulse": 0,
+        "phase": 0.7082039325
+      },
+      "audio": {
+        "rootMidi": 51,
+        "mode": "dorian",
+        "tempo": 90,
+        "density": 0.609190431450741,
+        "dissonance": 0.6697035731825505,
+        "heartbeat": 0.30713895268814256,
+        "mutation": 0.2635965638788423
+      },
+      "eventCounts": {
+        "possible_goal": 1,
+        "var_start": 1,
+        "goal_cancelled": 1
+      },
+      "canonicalRingHash": "0xc2cf512830948061910b29ce4ce8243ab9af4cb5c3644676d4350888764b068e",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5947999,
+        "start": 1784399700000,
+        "end": 1784400000000,
+        "durationMs": 300000
+      },
+      "ordinal": 7,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0xc2cf512830948061910b29ce4ce8243ab9af4cb5c3644676d4350888764b068e",
+      "journalHeadHash": "0xc0614931fa0cf72e5ce87a4d60cd60df8f0e480150c9e8a337f82d4056a57712",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784399700000,
+        "probabilities": {
+          "home": 0.15,
+          "draw": 0.28,
+          "away": 0.57
+        },
+        "score": {
+          "home": 0,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784400000000,
+        "probabilities": {
+          "home": 0.33,
+          "draw": 0.34,
+          "away": 0.33
+        },
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.9999092749840702,
+        "fragility": 0.35048143811416677,
+        "drawThreat": 0,
+        "volatility": 0.5468353278312807,
+        "shock": 0.8219587104504344,
+        "dominance": 0
+      },
+      "geometry": {
+        "baseRadius": 0.24150000000000002,
+        "radialVariance": 0.19596746874116094,
+        "branchDensity": 0.5715133936720695,
+        "scarDensity": 0,
+        "spikeDensity": 0.03504814381141668,
+        "turbulence": 0.6407394708036999,
+        "asymmetry": 0,
+        "membranePressure": 0.2628610785856251,
+        "eventPulse": 0.65,
+        "phase": 0.3262379212500006
+      },
+      "audio": {
+        "rootMidi": 50,
+        "mode": "dorian",
+        "tempo": 97,
+        "density": 0.6843344109687615,
+        "dissonance": 0.6999473794907607,
+        "heartbeat": 0.4479092223970418,
+        "mutation": 1
+      },
+      "eventCounts": {
+        "goal": 1
+      },
+      "canonicalRingHash": "0x227a6cdc8e3300fd2c8c4bd8655fd9797d77c32c764584d8d2ba12ec371ec9f9",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5948000,
+        "start": 1784400000000,
+        "end": 1784400300000,
+        "durationMs": 300000
+      },
+      "ordinal": 8,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x227a6cdc8e3300fd2c8c4bd8655fd9797d77c32c764584d8d2ba12ec371ec9f9",
+      "journalHeadHash": "0x9aaa558c927e15ffd61c57e1ce514f5ce21e01f86e1fdc2f44470b9b7eca87ca",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784400000000,
+        "probabilities": {
+          "home": 0.33,
+          "draw": 0.34,
+          "away": 0.33
+        },
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784400300000,
+        "probabilities": {
+          "home": 0.33375,
+          "draw": 0.34750000000000003,
+          "away": 0.31875
+        },
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.9994348390470281,
+        "fragility": 0.3748562190681668,
+        "drawThreat": 0,
+        "volatility": 0.42280724732747665,
+        "shock": 0.05072300581606426,
+        "dominance": 0.015000000000000013
+      },
+      "geometry": {
+        "baseRadius": 0.256,
+        "radialVariance": 0.11965591492607029,
+        "branchDensity": 0.16811568093057028,
+        "scarDensity": 0,
+        "spikeDensity": 0.03748562190681668,
+        "turbulence": 0.5724196506204584,
+        "asymmetry": 0.015000000000000013,
+        "membranePressure": 0.2811421643011251,
+        "eventPulse": 0,
+        "phase": 0.9442719100000003
+      },
+      "audio": {
+        "rootMidi": 52,
+        "mode": "dorian",
+        "tempo": 93,
+        "density": 0.619735433200634,
+        "dissonance": 0.6996722066472763,
+        "heartbeat": 0.46862778620794177,
+        "mutation": 0.020289202326425705
+      },
+      "eventCounts": {},
+      "canonicalRingHash": "0x8360e2120d63d471535b7ab78e525055ed11a74050400018d226ba0955c19d04",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5948001,
+        "start": 1784400300000,
+        "end": 1784400600000,
+        "durationMs": 300000
+      },
+      "ordinal": 9,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x8360e2120d63d471535b7ab78e525055ed11a74050400018d226ba0955c19d04",
+      "journalHeadHash": "0x659f53523c5dd50c0d6d98dda45b6297adda567cc0d2f20b2d97a7d855e9f211",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784400300000,
+        "probabilities": {
+          "home": 0.33375,
+          "draw": 0.34750000000000003,
+          "away": 0.31875
+        },
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 1,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784400600000,
+        "probabilities": {
+          "home": 0.4,
+          "draw": 0.34714285714285714,
+          "away": 0.25285714285714284
+        },
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.9843882401906454,
+        "fragility": 0.41081169636282056,
+        "drawThreat": 0,
+        "volatility": 0.40021860853778907,
+        "shock": 0.33245269216872636,
+        "dominance": 0.1471428571428572
+      },
+      "geometry": {
+        "baseRadius": 0.2705,
+        "radialVariance": 0.13531103798861288,
+        "branchDensity": 0.21319243074699623,
+        "scarDensity": 0,
+        "spikeDensity": 0.041081169636282056,
+        "turbulence": 0.556685647537726,
+        "asymmetry": 0.1471428571428572,
+        "membranePressure": 0.3081087722721154,
+        "eventPulse": 0,
+        "phase": 0.56230589875
+      },
+      "audio": {
+        "rootMidi": 52,
+        "mode": "dorian",
+        "tempo": 93,
+        "density": 0.6046790892815923,
+        "dissonance": 0.6909451793105743,
+        "heartbeat": 0.4991899419083975,
+        "mutation": 0.13298107686749056
+      },
+      "eventCounts": {
+        "period_end": 1,
+        "period_start": 1
+      },
+      "canonicalRingHash": "0xd97141baca2026fd5bf22f5fe0d6a9b87b5ceb1feabafbc74c17da279678a2a2",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5948002,
+        "start": 1784400600000,
+        "end": 1784400900000,
+        "durationMs": 300000
+      },
+      "ordinal": 10,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0xd97141baca2026fd5bf22f5fe0d6a9b87b5ceb1feabafbc74c17da279678a2a2",
+      "journalHeadHash": "0x16d18ad8d506407261a0ea8018cdfd80323725f6fbe6ddde6d6954b9f637b951",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784400600000,
+        "probabilities": {
+          "home": 0.4,
+          "draw": 0.34714285714285714,
+          "away": 0.25285714285714284
+        },
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 0,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784400900000,
+        "probabilities": {
+          "home": 0.48375,
+          "draw": 0.3275,
+          "away": 0.18875
+        },
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.938984024550479,
+        "fragility": 0.4715816529759719,
+        "drawThreat": 0,
+        "volatility": 0.39751129026877496,
+        "shock": 0.3893893354617326,
+        "dominance": 0.29500000000000004
+      },
+      "geometry": {
+        "baseRadius": 0.28500000000000003,
+        "radialVariance": 0.13880928573070075,
+        "branchDensity": 0.22230229367387722,
+        "scarDensity": 0.16,
+        "spikeDensity": 0.04715816529759719,
+        "turbulence": 0.5452076950489316,
+        "asymmetry": 0.29500000000000004,
+        "membranePressure": 0.3536862397319789,
+        "eventPulse": 0.16,
+        "phase": 0.18033988750000063
+      },
+      "audio": {
+        "rootMidi": 53,
+        "mode": "dorian",
+        "tempo": 94,
+        "density": 0.5932823563408683,
+        "dissonance": 0.6646107342392777,
+        "heartbeat": 0.5508444050295761,
+        "mutation": 0.15575573418469305
+      },
+      "eventCounts": {
+        "red_card": 1
+      },
+      "canonicalRingHash": "0x75e715496e255bf82486388ce94e0840057f5626462b807e96ca985501a0b40a",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5948003,
+        "start": 1784400900000,
+        "end": 1784401200000,
+        "durationMs": 300000
+      },
+      "ordinal": 11,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x75e715496e255bf82486388ce94e0840057f5626462b807e96ca985501a0b40a",
+      "journalHeadHash": "0x99df9ff9a7af6c8e2711723988647682e4e8b01058e61c0f0d941c6f09112b1d",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784400900000,
+        "probabilities": {
+          "home": 0.48375,
+          "draw": 0.3275,
+          "away": 0.18875
+        },
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 0,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784401200000,
+        "probabilities": {
+          "home": 0.5025000000000001,
+          "draw": 0.31500000000000006,
+          "away": 0.18250000000000002
+        },
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.9285497646724176,
+        "fragility": 0.5370433047762122,
+        "drawThreat": 0,
+        "volatility": 0.31870245893057103,
+        "shock": 0.0822759649159592,
+        "dominance": 0.31999999999999995
+      },
+      "geometry": {
+        "baseRadius": 0.2995,
+        "radialVariance": 0.10312576015161992,
+        "branchDensity": 0.17316415438655347,
+        "scarDensity": 0,
+        "spikeDensity": 0.11370433047762121,
+        "turbulence": 0.49956730063974597,
+        "asymmetry": 0.31999999999999995,
+        "membranePressure": 0.40278247858215915,
+        "eventPulse": 0.04,
+        "phase": 0.7983738762500003
+      },
+      "audio": {
+        "rootMidi": 53,
+        "mode": "dorian",
+        "tempo": 93,
+        "density": 0.5500062268718288,
+        "dissonance": 0.6585588635100021,
+        "heartbeat": 0.6064868090597804,
+        "mutation": 0.03291038596638368
+      },
+      "eventCounts": {
+        "corner": 1
+      },
+      "canonicalRingHash": "0xe3c391f9ebea55f442deb71e6fbb67181cb1d18822fcf032a19b505486924560",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5948004,
+        "start": 1784401200000,
+        "end": 1784401500000,
+        "durationMs": 300000
+      },
+      "ordinal": 12,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0xe3c391f9ebea55f442deb71e6fbb67181cb1d18822fcf032a19b505486924560",
+      "journalHeadHash": "0x2ef46441a5b16622ea2ddd408ea5344541fc95efafc28cf2f189d6a28b0b48b8",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784401200000,
+        "probabilities": {
+          "home": 0.5025000000000001,
+          "draw": 0.31500000000000006,
+          "away": 0.18250000000000002
+        },
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 1,
+          "homeShots": 1,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784401500000,
+        "probabilities": {
+          "home": 0.6112500000000001,
+          "draw": 0.2575,
+          "away": 0.13124999999999998
+        },
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 1,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.8344797850990319,
+        "fragility": 0.662229445585113,
+        "drawThreat": 0,
+        "volatility": 0.3590937648398772,
+        "shock": 0.48026768256779584,
+        "dominance": 0.4800000000000001
+      },
+      "geometry": {
+        "baseRadius": 0.31400000000000006,
+        "radialVariance": 0.13825561545092363,
+        "branchDensity": 0.23684282921084734,
+        "scarDensity": 0,
+        "spikeDensity": 0.09122294455851129,
+        "turbulence": 0.5010871233837195,
+        "asymmetry": 0.4800000000000001,
+        "membranePressure": 0.49667208418883474,
+        "eventPulse": 0,
+        "phase": 0.41640786500000004
+      },
+      "audio": {
+        "rootMidi": 53,
+        "mode": "dorian",
+        "tempo": 98,
+        "density": 0.5503143104385232,
+        "dissonance": 0.6039982753574384,
+        "heartbeat": 0.712895028747346,
+        "mutation": 0.19210707302711835
+      },
+      "eventCounts": {
+        "shot": 1
+      },
+      "canonicalRingHash": "0x9f255987c3d58f9a542a152b470c07d746a2f0fd7397bded9b7a2b07b18d55f1",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5948005,
+        "start": 1784401500000,
+        "end": 1784401800000,
+        "durationMs": 300000
+      },
+      "ordinal": 13,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x9f255987c3d58f9a542a152b470c07d746a2f0fd7397bded9b7a2b07b18d55f1",
+      "journalHeadHash": "0x97e8ec01b3b97387be6173e35da4c29870acead012837e64a33c10806f3ed6fd",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784401500000,
+        "probabilities": {
+          "home": 0.6112500000000001,
+          "draw": 0.2575,
+          "away": 0.13124999999999998
+        },
+        "score": {
+          "home": 1,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 1,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784401800000,
+        "probabilities": {
+          "home": 0.7857142857142857,
+          "draw": 0.16571428571428573,
+          "away": 0.04857142857142857
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 1,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.5773367340392356,
+        "fragility": 0.2142857142857143,
+        "drawThreat": 0.21911111111111112,
+        "volatility": 0.4767985409141473,
+        "shock": 0.8299128691369577,
+        "dominance": 0.7371428571428571
+      },
+      "geometry": {
+        "baseRadius": 0.3285,
+        "radialVariance": 0.18391763820413357,
+        "branchDensity": 0.5727860590619133,
+        "scarDensity": 0.04382222222222223,
+        "spikeDensity": 0.021428571428571432,
+        "turbulence": 0.5092532789914128,
+        "asymmetry": 0.7371428571428571,
+        "membranePressure": 0.2154920634920635,
+        "eventPulse": 0.65,
+        "phase": 0.03444185374999975
+      },
+      "audio": {
+        "rootMidi": 54,
+        "mode": "mixolydian",
+        "tempo": 91,
+        "density": 0.5549493227639885,
+        "dissonance": 0.4942953057427566,
+        "heartbeat": 0.3321428571428572,
+        "mutation": 1
+      },
+      "eventCounts": {
+        "goal": 1
+      },
+      "canonicalRingHash": "0x8d4be6fe1b5c54527a24a73146ecb0ffdd944bcda1b2d9e26cd553414450a7a8",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5948006,
+        "start": 1784401800000,
+        "end": 1784402100000,
+        "durationMs": 300000
+      },
+      "ordinal": 14,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x8d4be6fe1b5c54527a24a73146ecb0ffdd944bcda1b2d9e26cd553414450a7a8",
+      "journalHeadHash": "0x1e6512693493d5a27121446b997c158f08e4d09fd143574779238e33fc1eef4d",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784401800000,
+        "probabilities": {
+          "home": 0.7857142857142857,
+          "draw": 0.16571428571428573,
+          "away": 0.04857142857142857
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 1,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784402100000,
+        "probabilities": {
+          "home": 0.8085714285714286,
+          "draw": 0.1485714285714286,
+          "away": 0.042857142857142864
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 1,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.537118398712645,
+        "fragility": 0.24671754036354188,
+        "drawThreat": 0.20676190476190479,
+        "volatility": 0.40354456923942894,
+        "shock": 0.18378265421527376,
+        "dominance": 0.7657142857142858
+      },
+      "geometry": {
+        "baseRadius": 0.343,
+        "radialVariance": 0.12550280825816637,
+        "branchDensity": 0.18940522467444382,
+        "scarDensity": 0.04135238095238096,
+        "spikeDensity": 0.024671754036354188,
+        "turbulence": 0.4601155607984678,
+        "asymmetry": 0.7657142857142858,
+        "membranePressure": 0.2367286314631326,
+        "eventPulse": 0,
+        "phase": 0.6524758425000012
+      },
+      "audio": {
+        "rootMidi": 55,
+        "mode": "mixolydian",
+        "tempo": 89,
+        "density": 0.5080092237212849,
+        "dissonance": 0.4687458141104769,
+        "heartbeat": 0.3597099093090106,
+        "mutation": 0.07351306168610951
+      },
+      "eventCounts": {},
+      "canonicalRingHash": "0x1a6c996be76b6c4f1ba20479625aba9c4c9a77755c487303712f04fc1ec494b2",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5948007,
+        "start": 1784402100000,
+        "end": 1784402400000,
+        "durationMs": 300000
+      },
+      "ordinal": 15,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x1a6c996be76b6c4f1ba20479625aba9c4c9a77755c487303712f04fc1ec494b2",
+      "journalHeadHash": "0xa4917c7af49e2c4331a91b250c36d1cb8080a8a3489e6d2849f28b1225ca90dc",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784402100000,
+        "probabilities": {
+          "home": 0.8085714285714286,
+          "draw": 0.1485714285714286,
+          "away": 0.042857142857142864
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 0,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 1,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784402400000,
+        "probabilities": {
+          "home": 0.8266666666666667,
+          "draw": 0.1366666666666667,
+          "away": 0.03666666666666667
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 1,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 1,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.501150746616077,
+        "fragility": 0.31662222222222225,
+        "drawThreat": 0.19968518518518524,
+        "volatility": 0.3471781081010728,
+        "shock": 0.17807872468600447,
+        "dominance": 0.79
+      },
+      "geometry": {
+        "baseRadius": 0.35750000000000004,
+        "radialVariance": 0.11495757018621341,
+        "branchDensity": 0.18849259594976073,
+        "scarDensity": 0.11993703703703705,
+        "spikeDensity": 0.031662222222222224,
+        "turbulence": 0.421201123711127,
+        "asymmetry": 0.79,
+        "membranePressure": 0.287387962962963,
+        "eventPulse": 0.08,
+        "phase": 0.27050983125000094
+      },
+      "audio": {
+        "rootMidi": 55,
+        "mode": "mixolydian",
+        "tempo": 89,
+        "density": 0.47078578046809477,
+        "dissonance": 0.44661076637065794,
+        "heartbeat": 0.4191288888888889,
+        "mutation": 0.0712314898744018
+      },
+      "eventCounts": {
+        "yellow_card": 1
+      },
+      "canonicalRingHash": "0x09f26d468227c6e08aa164ab06d3b7412536507a4eef1f3a78d91af23fedfa71",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5948008,
+        "start": 1784402400000,
+        "end": 1784402700000,
+        "durationMs": 300000
+      },
+      "ordinal": 16,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x09f26d468227c6e08aa164ab06d3b7412536507a4eef1f3a78d91af23fedfa71",
+      "journalHeadHash": "0x06a0327a696484d7fc74e39fecdb598c934f8672cde0c3ae53ee0797b0f0264c",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784402400000,
+        "probabilities": {
+          "home": 0.8266666666666667,
+          "draw": 0.1366666666666667,
+          "away": 0.03666666666666667
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 1,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 1,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784402700000,
+        "probabilities": {
+          "home": 0.8377777777777777,
+          "draw": 0.13111111111111112,
+          "away": 0.03111111111111111
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 1,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 1,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.47571825575241616,
+        "fragility": 0.5073762501813748,
+        "drawThreat": 0.20067283950617285,
+        "volatility": 0.2988318386566001,
+        "shock": 0.15379303032318203,
+        "dominance": 0.8066666666666666
+      },
+      "geometry": {
+        "baseRadius": 0.372,
+        "radialVariance": 0.10455524308081077,
+        "branchDensity": 0.18460688485170912,
+        "scarDensity": 0.04013456790123457,
+        "spikeDensity": 0.05073762501813748,
+        "turbulence": 0.38901552752666163,
+        "asymmetry": 0.8066666666666666,
+        "membranePressure": 0.4307003975125743,
+        "eventPulse": 0,
+        "phase": 0.8885438200000007
+      },
+      "audio": {
+        "rootMidi": 55,
+        "mode": "mixolydian",
+        "tempo": 92,
+        "density": 0.4400505723669636,
+        "dissonance": 0.43203769944751247,
+        "heartbeat": 0.5812698126541685,
+        "mutation": 0.061517212129272816
+      },
+      "eventCounts": {},
+      "canonicalRingHash": "0x7761e225c087d7e017a33d41810037b1f8a1c47d3cd802a775b1f61e03ef2576",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5948009,
+        "start": 1784402700000,
+        "end": 1784403000000,
+        "durationMs": 300000
+      },
+      "ordinal": 17,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x7761e225c087d7e017a33d41810037b1f8a1c47d3cd802a775b1f61e03ef2576",
+      "journalHeadHash": "0x7fc0c8e99f6dfbb66305f7470e900800743504e31a360c8d67d32d30b3510fb2",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784402700000,
+        "probabilities": {
+          "home": 0.8377777777777777,
+          "draw": 0.13111111111111112,
+          "away": 0.03111111111111111
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 1,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 1,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784403000000,
+        "probabilities": {
+          "home": 0.7366666666666667,
+          "draw": 0.23333333333333334,
+          "away": 0.03
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 1,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 2,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.6097725870322,
+        "fragility": 0.9977847620680557,
+        "drawThreat": 0.37333333333333335,
+        "volatility": 0.38230850992383825,
+        "shock": 0.6327385237255526,
+        "dominance": 0.7066666666666667
+      },
+      "geometry": {
+        "baseRadius": 0.38650000000000007,
+        "radialVariance": 0.15310722844707958,
+        "branchDensity": 0.26123816379608844,
+        "scarDensity": 0.07466666666666667,
+        "spikeDensity": 0.15977847620680558,
+        "turbulence": 0.4644196496051951,
+        "asymmetry": 0.7066666666666667,
+        "membranePressure": 0.8416719048843752,
+        "eventPulse": 0.04,
+        "phase": 0.5065778087500004
+      },
+      "audio": {
+        "rootMidi": 55,
+        "mode": "mixolydian",
+        "tempo": 106,
+        "density": 0.5129503943074799,
+        "dissonance": 0.5408681004786761,
+        "heartbeat": 0.9981170477578473,
+        "mutation": 0.2530954094902211
+      },
+      "eventCounts": {
+        "corner": 1
+      },
+      "canonicalRingHash": "0xb38478bcfef2dbc4860219bf71be3da77149396391bafad6e9c1dfe2c9de68e0",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5948010,
+        "start": 1784403000000,
+        "end": 1784403300000,
+        "durationMs": 300000
+      },
+      "ordinal": 18,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0xb38478bcfef2dbc4860219bf71be3da77149396391bafad6e9c1dfe2c9de68e0",
+      "journalHeadHash": "0xdc113be2e000213bfbed2a4e9a1693fdbb3cd258ca06b3d0cf4230b37b0f0ae1",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784403000000,
+        "probabilities": {
+          "home": 0.7366666666666667,
+          "draw": 0.23333333333333334,
+          "away": 0.03
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 1,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 2,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784403300000,
+        "probabilities": {
+          "home": 0.9545,
+          "draw": 0.040350000000000004,
+          "away": 0.00515
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 1,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 2,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "signals": {
+        "uncertainty": 0.18306096681917458,
+        "fragility": 0.6059796480515229,
+        "drawThreat": 0.06456,
+        "volatility": 0.526532587221281,
+        "shock": 0.9592048191136094,
+        "dominance": 0.94935
+      },
+      "geometry": {
+        "baseRadius": 0.401,
+        "radialVariance": 0.20192020303778324,
+        "branchDensity": 0.3134727710581775,
+        "scarDensity": 0.012912000000000002,
+        "spikeDensity": 0.060597964805152296,
+        "turbulence": 0.44986633567192297,
+        "asymmetry": 0.94935,
+        "membranePressure": 0.4706247360386422,
+        "eventPulse": 0,
+        "phase": 0.12461179750000007
+      },
+      "audio": {
+        "rootMidi": 55,
+        "mode": "mixolydian",
+        "tempo": 103,
+        "density": 0.49407035805528454,
+        "dissonance": 0.23779616075512122,
+        "heartbeat": 0.6650827008437945,
+        "mutation": 0.3836819276454438
+      },
+      "eventCounts": {
+        "possible_goal": 1,
+        "var_start": 1,
+        "goal_cancelled": 1
+      },
+      "canonicalRingHash": "0x01ffa5567e2a42f8dc25a7aad116293dcce1c1b04874c58e867fe0b6c58871b5",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    },
+    {
+      "schemaVersion": "match-dna-ring@1",
+      "fixtureId": "match-dna-showcase-001",
+      "interval": {
+        "index": 5948011,
+        "start": 1784403300000,
+        "end": 1784403600000,
+        "durationMs": 300000
+      },
+      "ordinal": 19,
+      "compilerVersion": "1.0.0",
+      "selectionPolicyVersion": "closing-anchor-v1",
+      "generatorVersion": "radial-organism-v1",
+      "previousRingHash": "0x01ffa5567e2a42f8dc25a7aad116293dcce1c1b04874c58e867fe0b6c58871b5",
+      "journalHeadHash": "0xc2be07f8f9b076386850b93f8f457a157793accf6e305703db060f375b5d0ebd",
+      "openingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784403300000,
+        "probabilities": {
+          "home": 0.9545,
+          "draw": 0.040350000000000004,
+          "away": 0.00515
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 1,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 2,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 20,
+        "period": 2,
+        "finalised": false
+      },
+      "closingState": {
+        "fixtureId": "match-dna-showcase-001",
+        "timestamp": 1784403600000,
+        "probabilities": {
+          "home": 0.999,
+          "draw": 0.0007,
+          "away": 0.0003
+        },
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "stats": {
+          "homeYellowCards": 1,
+          "awayYellowCards": 1,
+          "homeRedCards": 0,
+          "awayRedCards": 1,
+          "homeCorners": 1,
+          "awayCorners": 2,
+          "homeShots": 2,
+          "awayShots": 0
+        },
+        "statusId": 100,
+        "period": 100,
+        "finalised": true
+      },
+      "signals": {
+        "uncertainty": 0.007753526427975632,
+        "fragility": 0.01981113517046529,
+        "drawThreat": 0.0011200000000000001,
+        "volatility": 0.6347006451943632,
+        "shock": 0.9592048191136094,
+        "dominance": 0.9987
+      },
+      "geometry": {
+        "baseRadius": 0.41550000000000004,
+        "radialVariance": 0.22139045347293804,
+        "branchDensity": 0.3134727710581775,
+        "scarDensity": 0.00022400000000000002,
+        "spikeDensity": 0.001981113517046529,
+        "turbulence": 0.47079113067105444,
+        "asymmetry": 0.9987,
+        "membranePressure": 0.015138351377848967,
+        "eventPulse": 0,
+        "phase": 0.7426457862500015
+      },
+      "audio": {
+        "rootMidi": 56,
+        "mode": "mixolydian",
+        "tempo": 93,
+        "density": 0.5117501113152235,
+        "dissonance": 0.12469864532822586,
+        "heartbeat": 0.16683946489489548,
+        "mutation": 0.3836819276454438
+      },
+      "eventCounts": {
+        "game_finalised": 1
+      },
+      "canonicalRingHash": "0x4e345e522c87230215a955afcfa0e0c6c4474eafcda1e5758660a40edf8bfd85",
+      "material": "amber",
+      "proofStatus": "pending",
+      "proofAnchors": []
+    }
+  ],
+  "finalState": {
+    "fixtureId": "match-dna-showcase-001",
+    "timestamp": 1784403600000,
+    "probabilities": {
+      "home": 0.999,
+      "draw": 0.0007,
+      "away": 0.0003
+    },
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "stats": {
+      "homeYellowCards": 1,
+      "awayYellowCards": 1,
+      "homeRedCards": 0,
+      "awayRedCards": 1,
+      "homeCorners": 1,
+      "awayCorners": 2,
+      "homeShots": 2,
+      "awayShots": 0
+    },
+    "statusId": 100,
+    "period": 100,
+    "finalised": true
+  },
+  "timelineHash": "0x0d21adbe9c62ca64d54b9ebac1d8d873f86855d3f8fcfc32946747acf7c99883"
+}

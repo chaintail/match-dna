@@ -1,0 +1,1399 @@
+[
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0001",
+    "sourceTimestamp": 1784397600000,
+    "receivedTimestamp": 1784397600250,
+    "payloadHash": "0xd64c068ab2e2586bfafc2161fbcc6d960c4556ee084d7a41644516722b316719",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0001",
+      "timestamp": 1784397600000,
+      "market": "match_result",
+      "inRunning": false,
+      "probabilities": {
+        "home": 0.22,
+        "draw": 0.28,
+        "away": 0.5
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0002",
+    "sourceTimestamp": 1784397720037,
+    "receivedTimestamp": 1784397720427,
+    "payloadHash": "0xb0516a17c95b01f10a6d0a70bf60059afaf0a95a9ab78ec1c44e94256e5e48c0",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0002",
+      "timestamp": 1784397720037,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.216,
+        "draw": 0.28400000000000003,
+        "away": 0.5
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0003",
+    "sourceTimestamp": 1784397900074,
+    "receivedTimestamp": 1784397900604,
+    "payloadHash": "0x592280e073222b1ec1e6eaec6916f45a12f1d835bdc72195b3e9a42f378759b9",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0003",
+      "timestamp": 1784397900074,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.21,
+        "draw": 0.29,
+        "away": 0.5
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0004",
+    "sourceTimestamp": 1784398080111,
+    "receivedTimestamp": 1784398080781,
+    "payloadHash": "0x8687599d7f4f102257166f7f5d3ef66db4dd7c87667faf34f3f45174a14b36a6",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0004",
+      "timestamp": 1784398080111,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.16285714285714287,
+        "draw": 0.25142857142857145,
+        "away": 0.5857142857142856
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0005",
+    "sourceTimestamp": 1784398320148,
+    "receivedTimestamp": 1784398320398,
+    "payloadHash": "0x148f9c9d06f909ee88b22d34684e894da3da612ee196d05eeb4602e293a03868",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0005",
+      "timestamp": 1784398320148,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.1,
+        "draw": 0.2,
+        "away": 0.7
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0006",
+    "sourceTimestamp": 1784398380185,
+    "receivedTimestamp": 1784398380575,
+    "payloadHash": "0x6a383043c67acddf6a68bb20b9ab596ae14b634e1c9b80423f992db088ce2ca9",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0006",
+      "timestamp": 1784398380185,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.10250000000000001,
+        "draw": 0.20625000000000002,
+        "away": 0.6912499999999999
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0007",
+    "sourceTimestamp": 1784398620222,
+    "receivedTimestamp": 1784398620752,
+    "payloadHash": "0x08a3aae5ad002c25c8ca8a427b1f83d086ac5f51b5f92a73f76d9ccabec07e5a",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0007",
+      "timestamp": 1784398620222,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.1125,
+        "draw": 0.23125,
+        "away": 0.65625
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0008",
+    "sourceTimestamp": 1784398920259,
+    "receivedTimestamp": 1784398920929,
+    "payloadHash": "0xef9fcea926fe52676607a21cac6dc69dea1d635ffbbb07767852346da4e0b0e9",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0008",
+      "timestamp": 1784398920259,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.1690909090909091,
+        "draw": 0.25363636363636366,
+        "away": 0.5772727272727273
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0009",
+    "sourceTimestamp": 1784399220296,
+    "receivedTimestamp": 1784399220546,
+    "payloadHash": "0xd6d49a5523e05d3bc90503ba3ac5e0eb761419df29654ffee9a7a5e79134bc72",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0009",
+      "timestamp": 1784399220296,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.2918181818181818,
+        "draw": 0.26272727272727275,
+        "away": 0.44545454545454544
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0010",
+    "sourceTimestamp": 1784399460333,
+    "receivedTimestamp": 1784399460723,
+    "payloadHash": "0xa132562685fb449b3e44e46d898358ab0f5c923bab3104f12cdc551d7b8af3e6",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0010",
+      "timestamp": 1784399460333,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.39,
+        "draw": 0.27,
+        "away": 0.34
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0011",
+    "sourceTimestamp": 1784399520370,
+    "receivedTimestamp": 1784399520900,
+    "payloadHash": "0xd1cb4aacefcfc7d4ed9c9a6667306f0a3c340dbc982ee5ee7aea2fb6b7dad90a",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0011",
+      "timestamp": 1784399520370,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.27,
+        "draw": 0.275,
+        "away": 0.45499999999999996
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0012",
+    "sourceTimestamp": 1784399580407,
+    "receivedTimestamp": 1784399581077,
+    "payloadHash": "0x75d3ec2030eb8368ebbbb68bbf1418862cdbfa44d3a8b825ee97a52d1ebf7629",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0012",
+      "timestamp": 1784399580407,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.15,
+        "draw": 0.28,
+        "away": 0.57
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0013",
+    "sourceTimestamp": 1784399820444,
+    "receivedTimestamp": 1784399820694,
+    "payloadHash": "0x6edcf5d23ddcadf21ce358840e8f8fe3ef158b8a1d7fdd018c3903c6d98b4ed0",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0013",
+      "timestamp": 1784399820444,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.33,
+        "draw": 0.34,
+        "away": 0.33
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0014",
+    "sourceTimestamp": 1784400000481,
+    "receivedTimestamp": 1784400000871,
+    "payloadHash": "0xe4bb81aa1b2a1d2064a24447a9df81c1cee26f4bd49d471fee2979a81774a046",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0014",
+      "timestamp": 1784400000481,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.33375,
+        "draw": 0.34750000000000003,
+        "away": 0.31875
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0015",
+    "sourceTimestamp": 1784400300518,
+    "receivedTimestamp": 1784400301048,
+    "payloadHash": "0x4bd6505e9cdea8146335d83cff978268e589a24ce4a5e11ad0f1fd19482b7c00",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0015",
+      "timestamp": 1784400300518,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.34,
+        "draw": 0.36,
+        "away": 0.3
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0016",
+    "sourceTimestamp": 1784400480555,
+    "receivedTimestamp": 1784400481225,
+    "payloadHash": "0xfd97b816eafc5867b68ae027a10dfe20b738e00024e4708c695fef03f3cbe19a",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0016",
+      "timestamp": 1784400480555,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.4,
+        "draw": 0.34714285714285714,
+        "away": 0.25285714285714284
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0017",
+    "sourceTimestamp": 1784400720592,
+    "receivedTimestamp": 1784400720842,
+    "payloadHash": "0x436c5dd1a3b7043bea7ba4b6c6fd1ace88da7fa14e719f481d348cff715721a0",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0017",
+      "timestamp": 1784400720592,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.48,
+        "draw": 0.33,
+        "away": 0.19
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0018",
+    "sourceTimestamp": 1784400780629,
+    "receivedTimestamp": 1784400781019,
+    "payloadHash": "0x68f17ee821f9265b823c9ba1951a317cb29befe28b1faa5dfda91f501209bcc8",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0018",
+      "timestamp": 1784400780629,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.48375,
+        "draw": 0.3275,
+        "away": 0.18875
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0019",
+    "sourceTimestamp": 1784401080666,
+    "receivedTimestamp": 1784401081196,
+    "payloadHash": "0x2efa4488d8752ec51d9c1c2b0a7693d3302b24a2ff56099e7b2b0d8ea103efd8",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0019",
+      "timestamp": 1784401080666,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.5025,
+        "draw": 0.315,
+        "away": 0.1825
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0020",
+    "sourceTimestamp": 1784401380703,
+    "receivedTimestamp": 1784401381373,
+    "payloadHash": "0xc6ff6e37c293506dd1487cfa4d0e0e397d68af43327191b452f35dc2b282cd40",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0020",
+      "timestamp": 1784401380703,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.6112500000000001,
+        "draw": 0.2575,
+        "away": 0.13124999999999998
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0021",
+    "sourceTimestamp": 1784401680740,
+    "receivedTimestamp": 1784401680990,
+    "payloadHash": "0x9e4cc5c2cccad32e7d5c77e59b2e67d83d19db2da2d589767e816cff18343d52",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0021",
+      "timestamp": 1784401680740,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.78,
+        "draw": 0.17,
+        "away": 0.04999999999999999
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0022",
+    "sourceTimestamp": 1784401740777,
+    "receivedTimestamp": 1784401741167,
+    "payloadHash": "0x4df7696c789c66065dc567ac0ea6a476da010cac5e84216ea0b16bd8ddadd476",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0022",
+      "timestamp": 1784401740777,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.7857142857142857,
+        "draw": 0.16571428571428573,
+        "away": 0.04857142857142857
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0023",
+    "sourceTimestamp": 1784401980814,
+    "receivedTimestamp": 1784401981344,
+    "payloadHash": "0x827d82dfa166a1f957a58b89bef0387b24a2133c8ff645f083e5678a3ea6e875",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0023",
+      "timestamp": 1784401980814,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.8085714285714285,
+        "draw": 0.14857142857142858,
+        "away": 0.04285714285714286
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0024",
+    "sourceTimestamp": 1784402280851,
+    "receivedTimestamp": 1784402281521,
+    "payloadHash": "0x6f151755be5136107497b358bf0a0900f9f62c19a10c8e4ad4ccbf46d6547073",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0024",
+      "timestamp": 1784402280851,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.8266666666666667,
+        "draw": 0.1366666666666667,
+        "away": 0.03666666666666667
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0025",
+    "sourceTimestamp": 1784402580888,
+    "receivedTimestamp": 1784402581138,
+    "payloadHash": "0xf862ef611d22bc8825770ae2fa4fe2134027e6d53b0b03e66d5817343fc489d0",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0025",
+      "timestamp": 1784402580888,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.8377777777777777,
+        "draw": 0.13111111111111112,
+        "away": 0.03111111111111111
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0026",
+    "sourceTimestamp": 1784402880925,
+    "receivedTimestamp": 1784402881315,
+    "payloadHash": "0x2efdc1901b5324af8e0dcca7d0071b889fe7ea115ccdd6cd22a8287c88c941dc",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0026",
+      "timestamp": 1784402880925,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.79,
+        "draw": 0.18,
+        "away": 0.03
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0027",
+    "sourceTimestamp": 1784402940962,
+    "receivedTimestamp": 1784402941492,
+    "payloadHash": "0x313f3b0b32f0e5650c2f20cafeacacff4217b83c842e1c648b85718dcfb3d98a",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0027",
+      "timestamp": 1784402940962,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.7366666666666667,
+        "draw": 0.23333333333333334,
+        "away": 0.03
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0028",
+    "sourceTimestamp": 1784403060999,
+    "receivedTimestamp": 1784403061669,
+    "payloadHash": "0x7b90173671e37ded68c675b78dae6a8dff5c0f44a093ac597caad875d5117d29",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0028",
+      "timestamp": 1784403060999,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.63,
+        "draw": 0.34,
+        "away": 0.03
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0029",
+    "sourceTimestamp": 1784403121036,
+    "receivedTimestamp": 1784403121286,
+    "payloadHash": "0x1c52c27c832bae42c37174426ceeadebbcbd98b521cd0165e21b39ee98c5272d",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0029",
+      "timestamp": 1784403121036,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.91,
+        "draw": 0.08000000000000002,
+        "away": 0.010000000000000002
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0030",
+    "sourceTimestamp": 1784403241073,
+    "receivedTimestamp": 1784403241463,
+    "payloadHash": "0x16f08ac2feae46ea61f2435ea370ea72cb83423a38b49152b992dd611bcff48c",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0030",
+      "timestamp": 1784403241073,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.9545,
+        "draw": 0.040350000000000004,
+        "away": 0.00515
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0031",
+    "sourceTimestamp": 1784403361110,
+    "receivedTimestamp": 1784403361640,
+    "payloadHash": "0x119a837de403c8c43cd0a7c1b31f5975d9431967c0fec8f8f5ba551cfff6c990",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0031",
+      "timestamp": 1784403361110,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.999,
+        "draw": 0.0007000000000000062,
+        "away": 0.0002999999999999999
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "odds",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "stable-0032",
+    "sourceTimestamp": 1784403541147,
+    "receivedTimestamp": 1784403541817,
+    "payloadHash": "0x74ed9301ed4e0b68423709503bb2eb56657a4a06ce2a912bc670080e8449318e",
+    "payload": {
+      "kind": "odds",
+      "fixtureId": "match-dna-showcase-001",
+      "messageId": "stable-0032",
+      "timestamp": 1784403541147,
+      "market": "match_result",
+      "inRunning": true,
+      "probabilities": {
+        "home": 0.999,
+        "draw": 0.0007,
+        "away": 0.0003
+      },
+      "sourceLabel": "StablePrice synthetic replay"
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000900",
+    "sourceTimestamp": 1784397600000,
+    "receivedTimestamp": 1784397600350,
+    "payloadHash": "0xdad49dcb6b632f65534ad5e433461c00ace40eed91493c33f2e62b0b8f8cd8cf",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 900,
+      "timestamp": 1784397600000,
+      "action": "kickoff",
+      "statusId": 10,
+      "period": 1,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "stats": {
+        "homeYellowCards": 0,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 0,
+        "homeCorners": 0,
+        "awayCorners": 0,
+        "homeShots": 0,
+        "awayShots": 0
+      },
+      "participant": null,
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000901",
+    "sourceTimestamp": 1784397960019,
+    "receivedTimestamp": 1784397960589,
+    "payloadHash": "0x4bff120828cafbe7f8bc2bf9d1fb562cf76c4c1d7135fcb5cce08cb6136153bf",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 901,
+      "timestamp": 1784397960019,
+      "action": "corner",
+      "statusId": 20,
+      "period": 1,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "stats": {
+        "homeYellowCards": 0,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 0,
+        "homeCorners": 0,
+        "awayCorners": 1,
+        "homeShots": 0,
+        "awayShots": 0
+      },
+      "participant": "away",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000902",
+    "sourceTimestamp": 1784398320038,
+    "receivedTimestamp": 1784398320828,
+    "payloadHash": "0xaf9a90835027263e12819dbc3526ec9016f118a9135b4289c235722521e8305a",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 902,
+      "timestamp": 1784398320038,
+      "action": "goal",
+      "statusId": 20,
+      "period": 1,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 0,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 0,
+        "homeCorners": 0,
+        "awayCorners": 1,
+        "homeShots": 0,
+        "awayShots": 0
+      },
+      "participant": "away",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000903",
+    "sourceTimestamp": 1784398680057,
+    "receivedTimestamp": 1784398680407,
+    "payloadHash": "0xbd1435a46eb5f12b2251ce79a876a7a1a0c5d6b671392acd9db8e292d20d8f5a",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 903,
+      "timestamp": 1784398680057,
+      "action": "yellow_card",
+      "statusId": 20,
+      "period": 1,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 0,
+        "homeCorners": 0,
+        "awayCorners": 1,
+        "homeShots": 0,
+        "awayShots": 0
+      },
+      "participant": "home",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000904",
+    "sourceTimestamp": 1784399040076,
+    "receivedTimestamp": 1784399040646,
+    "payloadHash": "0x2d40acf60edb68bf0c4006b3c6a90039b474c2a0b91e25a4470d5294db2896a6",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 904,
+      "timestamp": 1784399040076,
+      "action": "shot",
+      "statusId": 20,
+      "period": 1,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 0,
+        "homeCorners": 0,
+        "awayCorners": 1,
+        "homeShots": 1,
+        "awayShots": 0
+      },
+      "participant": "home",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000905",
+    "sourceTimestamp": 1784399460095,
+    "receivedTimestamp": 1784399460885,
+    "payloadHash": "0x2ce95075c3782f706fe571a54cfd546ebf9a8cbdac4e2ff6c1903c3902c1bcdc",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 905,
+      "timestamp": 1784399460095,
+      "action": "possible_goal",
+      "statusId": 20,
+      "period": 1,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 0,
+        "homeCorners": 0,
+        "awayCorners": 1,
+        "homeShots": 1,
+        "awayShots": 0
+      },
+      "participant": "home",
+      "confirmed": false
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000906",
+    "sourceTimestamp": 1784399469114,
+    "receivedTimestamp": 1784399469464,
+    "payloadHash": "0x301cabe9963399b085e8d45bee9d6065f3f94f38e1251c5b6f242943553395c0",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 906,
+      "timestamp": 1784399469114,
+      "action": "var_start",
+      "statusId": 20,
+      "period": 1,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 0,
+        "homeCorners": 0,
+        "awayCorners": 1,
+        "homeShots": 1,
+        "awayShots": 0
+      },
+      "participant": "home",
+      "confirmed": false
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000907",
+    "sourceTimestamp": 1784399556133,
+    "receivedTimestamp": 1784399556703,
+    "payloadHash": "0x00b0a2e5ad0be695ba89db104008e91d435513051b438f8a14b74038dc46cc3c",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 907,
+      "timestamp": 1784399556133,
+      "action": "goal_cancelled",
+      "statusId": 20,
+      "period": 1,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 0,
+        "homeCorners": 0,
+        "awayCorners": 1,
+        "homeShots": 1,
+        "awayShots": 0
+      },
+      "participant": "home",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000908",
+    "sourceTimestamp": 1784399820152,
+    "receivedTimestamp": 1784399820942,
+    "payloadHash": "0xa789f65e39316725eeef562ab2b8760d90948492d3e3bcc25bd5238c01283e52",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 908,
+      "timestamp": 1784399820152,
+      "action": "goal",
+      "statusId": 20,
+      "period": 1,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 0,
+        "homeCorners": 0,
+        "awayCorners": 1,
+        "homeShots": 1,
+        "awayShots": 0
+      },
+      "participant": "home",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000909",
+    "sourceTimestamp": 1784400300171,
+    "receivedTimestamp": 1784400300521,
+    "payloadHash": "0xf7747940df5c4de842f55da01410a2019d54d6c9027008e08f0929367f96bb90",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 909,
+      "timestamp": 1784400300171,
+      "action": "period_end",
+      "statusId": 30,
+      "period": 1,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 0,
+        "homeCorners": 0,
+        "awayCorners": 1,
+        "homeShots": 1,
+        "awayShots": 0
+      },
+      "participant": null,
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000910",
+    "sourceTimestamp": 1784400360190,
+    "receivedTimestamp": 1784400360760,
+    "payloadHash": "0x26fc86524ea72115efb49d160fc380f99bf51f23ac7ea1d60732bb2e23d449ef",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 910,
+      "timestamp": 1784400360190,
+      "action": "period_start",
+      "statusId": 20,
+      "period": 2,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 0,
+        "homeCorners": 0,
+        "awayCorners": 1,
+        "homeShots": 1,
+        "awayShots": 0
+      },
+      "participant": null,
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000911",
+    "sourceTimestamp": 1784400720209,
+    "receivedTimestamp": 1784400720999,
+    "payloadHash": "0xb9d6546f813a8ac5ec38015764230568823960681f9ce003650f177d8e800cea",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 911,
+      "timestamp": 1784400720209,
+      "action": "red_card",
+      "statusId": 20,
+      "period": 2,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 1,
+        "homeCorners": 0,
+        "awayCorners": 1,
+        "homeShots": 1,
+        "awayShots": 0
+      },
+      "participant": "away",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000912",
+    "sourceTimestamp": 1784401020228,
+    "receivedTimestamp": 1784401020578,
+    "payloadHash": "0x7d0dac67c498f8781fccfee630074de706ee55098afbb4fc09713bf4d2f45050",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 912,
+      "timestamp": 1784401020228,
+      "action": "corner",
+      "statusId": 20,
+      "period": 2,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 1,
+        "homeCorners": 1,
+        "awayCorners": 1,
+        "homeShots": 1,
+        "awayShots": 0
+      },
+      "participant": "home",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000913",
+    "sourceTimestamp": 1784401440247,
+    "receivedTimestamp": 1784401440817,
+    "payloadHash": "0x4dbe89eb456e1033dc798f0e3156bf426b6cecb151dacdfce14be01d5af7e63e",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 913,
+      "timestamp": 1784401440247,
+      "action": "shot",
+      "statusId": 20,
+      "period": 2,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 1,
+        "homeCorners": 1,
+        "awayCorners": 1,
+        "homeShots": 2,
+        "awayShots": 0
+      },
+      "participant": "home",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000914",
+    "sourceTimestamp": 1784401680266,
+    "receivedTimestamp": 1784401681056,
+    "payloadHash": "0x309d682e8a1e07150f833f24805c02baa5ba6bffa4fbebf139084cbf154834cf",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 914,
+      "timestamp": 1784401680266,
+      "action": "goal",
+      "statusId": 20,
+      "period": 2,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 0,
+        "homeRedCards": 0,
+        "awayRedCards": 1,
+        "homeCorners": 1,
+        "awayCorners": 1,
+        "homeShots": 2,
+        "awayShots": 0
+      },
+      "participant": "home",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000915",
+    "sourceTimestamp": 1784402160285,
+    "receivedTimestamp": 1784402160635,
+    "payloadHash": "0xbadfb7c6e7b153ceab2731fa53a4a57eb6a502396e66a11f3fbdc1655b3e483d",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 915,
+      "timestamp": 1784402160285,
+      "action": "yellow_card",
+      "statusId": 20,
+      "period": 2,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 1,
+        "homeRedCards": 0,
+        "awayRedCards": 1,
+        "homeCorners": 1,
+        "awayCorners": 1,
+        "homeShots": 2,
+        "awayShots": 0
+      },
+      "participant": "away",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000916",
+    "sourceTimestamp": 1784402760304,
+    "receivedTimestamp": 1784402760874,
+    "payloadHash": "0x47201f4af6cb91a243bfd8aaa2b20f80f676e3618075c70e3fd4fe1de52d5f2d",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 916,
+      "timestamp": 1784402760304,
+      "action": "corner",
+      "statusId": 20,
+      "period": 2,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 1,
+        "homeRedCards": 0,
+        "awayRedCards": 1,
+        "homeCorners": 1,
+        "awayCorners": 2,
+        "homeShots": 2,
+        "awayShots": 0
+      },
+      "participant": "away",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000917",
+    "sourceTimestamp": 1784403060323,
+    "receivedTimestamp": 1784403061113,
+    "payloadHash": "0x85cd53022cc74c96d13b608968498ab77a286b44a49acadb7f0127feeae0820d",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 917,
+      "timestamp": 1784403060323,
+      "action": "possible_goal",
+      "statusId": 20,
+      "period": 2,
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 1,
+        "homeRedCards": 0,
+        "awayRedCards": 1,
+        "homeCorners": 1,
+        "awayCorners": 2,
+        "homeShots": 2,
+        "awayShots": 0
+      },
+      "participant": "away",
+      "confirmed": false
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000918",
+    "sourceTimestamp": 1784403066342,
+    "receivedTimestamp": 1784403066692,
+    "payloadHash": "0xc628bbd2b9b66996d36d220f70fe93bb14788d8941dc449653b925e318e2bd64",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 918,
+      "timestamp": 1784403066342,
+      "action": "var_start",
+      "statusId": 20,
+      "period": 2,
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 1,
+        "homeRedCards": 0,
+        "awayRedCards": 1,
+        "homeCorners": 1,
+        "awayCorners": 2,
+        "homeShots": 2,
+        "awayShots": 0
+      },
+      "participant": "away",
+      "confirmed": false
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000919",
+    "sourceTimestamp": 1784403132361,
+    "receivedTimestamp": 1784403132931,
+    "payloadHash": "0xe732374784ee9e61800a0461f9bbe60bf652694ad9ce7fd1fdf16825cd29929a",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 919,
+      "timestamp": 1784403132361,
+      "action": "goal_cancelled",
+      "statusId": 20,
+      "period": 2,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 1,
+        "homeRedCards": 0,
+        "awayRedCards": 1,
+        "homeCorners": 1,
+        "awayCorners": 2,
+        "homeShots": 2,
+        "awayShots": 0
+      },
+      "participant": "away",
+      "confirmed": true
+    }
+  },
+  {
+    "source": "score",
+    "fixtureId": "match-dna-showcase-001",
+    "sourceId": "match-dna-showcase-001:00000920",
+    "sourceTimestamp": 1784403360380,
+    "receivedTimestamp": 1784403361170,
+    "payloadHash": "0xd31455df49235efdbc441ca73441195d04b539c5423395495b2ae6abdef640b3",
+    "payload": {
+      "kind": "score",
+      "fixtureId": "match-dna-showcase-001",
+      "sequence": 920,
+      "timestamp": 1784403360380,
+      "action": "game_finalised",
+      "statusId": 100,
+      "period": 100,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "stats": {
+        "homeYellowCards": 1,
+        "awayYellowCards": 1,
+        "homeRedCards": 0,
+        "awayRedCards": 1,
+        "homeCorners": 1,
+        "awayCorners": 2,
+        "homeShots": 2,
+        "awayShots": 0
+      },
+      "participant": null,
+      "confirmed": true
+    }
+  }
+]

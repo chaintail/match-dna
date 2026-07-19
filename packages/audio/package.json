@@ -1,0 +1,31 @@
+{
+  "name": "@match-dna/audio",
+  "version": "0.1.0",
+  "description": "Deterministic offline audio renderer for canonical Match DNA timelines.",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format esm --dts --sourcemap --clean",
+    "dev": "tsup src/index.ts --format esm --dts --sourcemap --watch",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run --pool=forks --maxWorkers=1",
+    "test:coverage": "vitest run --coverage --pool=forks --maxWorkers=1",
+    "clean": "rm -rf dist coverage"
+  },
+  "dependencies": {
+    "@match-dna/core": "workspace:*"
+  },
+  "devDependencies": {
+    "@match-dna/fixtures": "workspace:*"
+  }
+}

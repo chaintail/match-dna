@@ -1,0 +1,28 @@
+{
+  "name": "@match-dna/cli",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "match-dna": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsup src/index.ts --format esm --dts --sourcemap --clean",
+    "dev": "tsx watch src/index.ts",
+    "generate": "tsx src/index.ts generate --out ../../apps/studio/public/generated",
+    "verify-demo": "tsx src/index.ts verify-demo --out ../../apps/studio/public/generated",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run --pool=forks --maxWorkers=1",
+    "test:coverage": "vitest run --coverage --pool=forks --maxWorkers=1",
+    "clean": "rm -rf dist coverage"
+  },
+  "dependencies": {
+    "@match-dna/audio": "workspace:*",
+    "@match-dna/core": "workspace:*",
+    "@match-dna/fixtures": "workspace:*",
+    "@match-dna/renderer": "workspace:*",
+    "@match-dna/sdk": "workspace:*",
+    "@match-dna/txline": "workspace:*",
+    "commander": "^14.0.0"
+  }
+}

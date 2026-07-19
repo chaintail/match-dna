@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "match-dna-artifact-index@1",
+  "fixture": {
+    "id": "match-dna-showcase-001",
+    "name": "Aurora FC vs Meridian Athletic",
+    "home": "Aurora FC",
+    "away": "Meridian Athletic",
+    "competition": "World Championship Showcase",
+    "venue": "Orbit Stadium",
+    "kickoffAt": 1784397600000,
+    "synthetic": true
+  },
+  "timelineHash": "0x0d21adbe9c62ca64d54b9ebac1d8d873f86855d3f8fcfc32946747acf7c99883",
+  "proofBundleHash": "0x1f20a84bb6337b50ff29af47bd125bf4a660b3e78e74e3c739b50a76a5a5c720",
+  "canonicalAudioHash": "0x049b3b73afdf5fdbcf2e6b28be4a7f45168cb1192a50de96906b00321fd55d03",
+  "canonicalMediaHash": "0xf9ef323c84e29b73b036d02ed64975821aec8426eeadb1cad10cc774b6d13497",
+  "files": {
+    "timeline.json": {
+      "sha256": "0x3ce7c397bfe370ee90946a151a49947b8c6e7d0b34baa57975e772200eed62ad",
+      "bytes": 62807
+    },
+    "proofs.json": {
+      "sha256": "0x38aae7cfef1075dd673fbd9e04f5f0c3691ad970f3c73fda27b79e5451b6d308",
+      "bytes": 44822
+    },
+    "journal.json": {
+      "sha256": "0x14e18b0d002818ff76043cb946a4a3d9cb9c732da5aa90c223a11bd11f6b74a5",
+      "bytes": 39211
+    },
+    "deliveries.json": {
+      "sha256": "0x6a41fe63e0ebe256a1b5304bb810f8f8d1cb4322e14fd28b09933c316a26a504",
+      "bytes": 51562
+    },
+    "moments.json": {
+      "sha256": "0x60caaf26effc25cc8c5e1bfe1702ec5a9a106b5c928ea103523eee69431e58ef",
+      "bytes": 2887
+    },
+    "canonical.wav": {
+      "sha256": "0x049b3b73afdf5fdbcf2e6b28be4a7f45168cb1192a50de96906b00321fd55d03",
+      "bytes": 950444
+    },
+    "canonical.svg": {
+      "sha256": "0xf9ef323c84e29b73b036d02ed64975821aec8426eeadb1cad10cc774b6d13497",
+      "bytes": 100664
+    }
+  }
+}

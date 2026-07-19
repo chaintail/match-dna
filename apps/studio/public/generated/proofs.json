@@ -1,0 +1,1102 @@
+[
+  {
+    "ringIndex": 5947992,
+    "availableAt": 1784397918000,
+    "odds": {
+      "leaf": "0x7b9816b0d41f90a9299291ebee19736564e3353fbb84e99b3d30c2c16ac9aafa",
+      "root": "0x07a33949a96373d4f9f905c0b5da21863ed50137cb37bb5ee1faf7c722c897c4",
+      "proof": [
+        {
+          "hash": "0xb20479a0467669e2533cbe017e081c4a8021bdc7334c93e291ea10144478f36f",
+          "position": "right"
+        },
+        {
+          "hash": "0xe2b859cc2dba848136b799f18fe90be1550da2b6a009a67423e1e84fdf46c5f0",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-0",
+        "sourceTimestamp": 1784397900000,
+        "leafHash": "0x7b9816b0d41f90a9299291ebee19736564e3353fbb84e99b3d30c2c16ac9aafa",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x07a33949a96373d4f9f905c0b5da21863ed50137cb37bb5ee1faf7c722c897c4",
+        "proofBundleHash": "0xfde8e5a77e5f9412fe9f1851d7a7fe1828dfde23c78f4b6e37f0fe2937fc2269",
+        "verifiedAt": 1784397918000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0xb20479a0467669e2533cbe017e081c4a8021bdc7334c93e291ea10144478f36f",
+      "root": "0x07a33949a96373d4f9f905c0b5da21863ed50137cb37bb5ee1faf7c722c897c4",
+      "proof": [
+        {
+          "hash": "0x7b9816b0d41f90a9299291ebee19736564e3353fbb84e99b3d30c2c16ac9aafa",
+          "position": "left"
+        },
+        {
+          "hash": "0xe2b859cc2dba848136b799f18fe90be1550da2b6a009a67423e1e84fdf46c5f0",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-0",
+        "sourceTimestamp": 1784397900000,
+        "leafHash": "0xb20479a0467669e2533cbe017e081c4a8021bdc7334c93e291ea10144478f36f",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x07a33949a96373d4f9f905c0b5da21863ed50137cb37bb5ee1faf7c722c897c4",
+        "proofBundleHash": "0x042842ec38dcde00d55b304f1a1b87f51b3086c7725dc90cfeba3bd9d62ab870",
+        "verifiedAt": 1784397918000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0xd7d9f66090eb6216de8360cabd833ae732f41277499f392c754d5fe421094635"
+  },
+  {
+    "ringIndex": 5947993,
+    "availableAt": 1784398222000,
+    "odds": {
+      "leaf": "0x0939dd708d343d1c51e87dac55f85d1877ee3cec90d5e1cc5f7ff3bf5acefbe4",
+      "root": "0xa9c59387f8b4bd158eb1f5b2f1396fcfaebb012909659dd81968e2656acd69d4",
+      "proof": [
+        {
+          "hash": "0x31adcd58510448f0dd8dcfb6b87499bd4fb34aced589b3c7c54248431ba786b6",
+          "position": "right"
+        },
+        {
+          "hash": "0x024bd50c221226eee3e7b9c9c66df3cec8b7083004426a8201e5b564dafff435",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-1",
+        "sourceTimestamp": 1784398200000,
+        "leafHash": "0x0939dd708d343d1c51e87dac55f85d1877ee3cec90d5e1cc5f7ff3bf5acefbe4",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0xa9c59387f8b4bd158eb1f5b2f1396fcfaebb012909659dd81968e2656acd69d4",
+        "proofBundleHash": "0xc3618630ba6bfb5011efc1d9ecc0a804fdd212dbd20fdc5414c46a1dbd920ecd",
+        "verifiedAt": 1784398222000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0x31adcd58510448f0dd8dcfb6b87499bd4fb34aced589b3c7c54248431ba786b6",
+      "root": "0xa9c59387f8b4bd158eb1f5b2f1396fcfaebb012909659dd81968e2656acd69d4",
+      "proof": [
+        {
+          "hash": "0x0939dd708d343d1c51e87dac55f85d1877ee3cec90d5e1cc5f7ff3bf5acefbe4",
+          "position": "left"
+        },
+        {
+          "hash": "0x024bd50c221226eee3e7b9c9c66df3cec8b7083004426a8201e5b564dafff435",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-1",
+        "sourceTimestamp": 1784398200000,
+        "leafHash": "0x31adcd58510448f0dd8dcfb6b87499bd4fb34aced589b3c7c54248431ba786b6",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0xa9c59387f8b4bd158eb1f5b2f1396fcfaebb012909659dd81968e2656acd69d4",
+        "proofBundleHash": "0xae574342de23dda25f52453348686e369fb651cc75f73771f868ce0a134a8dba",
+        "verifiedAt": 1784398222000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0x45eeb0d2d9709825c665bd5a0c6099af33c9ddf9b2f4089f3cd790929131350a"
+  },
+  {
+    "ringIndex": 5947994,
+    "availableAt": 1784398526000,
+    "odds": {
+      "leaf": "0x6acc56dcec87f704638def2561b21d257ef203c3c9b6c2dca57833330b8c2f7a",
+      "root": "0x25adff7e785945069dec79f0690041c8002cd7425f01d1315660feb55b20f5d5",
+      "proof": [
+        {
+          "hash": "0x30d74917de72bd7e60c881fc672c30ec54d0da3b7f407d29418280c3c1be148a",
+          "position": "right"
+        },
+        {
+          "hash": "0x9c7dae3be5063b0cd8ab6d600db9032c699ab732ad53940ee51aecf4aa3fa9ed",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-2",
+        "sourceTimestamp": 1784398500000,
+        "leafHash": "0x6acc56dcec87f704638def2561b21d257ef203c3c9b6c2dca57833330b8c2f7a",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x25adff7e785945069dec79f0690041c8002cd7425f01d1315660feb55b20f5d5",
+        "proofBundleHash": "0xc7134168c6fa818cfe9f83090f48c23e19df4c06dd69f0a5bd3d0a3b2ea51ac9",
+        "verifiedAt": 1784398526000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0x30d74917de72bd7e60c881fc672c30ec54d0da3b7f407d29418280c3c1be148a",
+      "root": "0x25adff7e785945069dec79f0690041c8002cd7425f01d1315660feb55b20f5d5",
+      "proof": [
+        {
+          "hash": "0x6acc56dcec87f704638def2561b21d257ef203c3c9b6c2dca57833330b8c2f7a",
+          "position": "left"
+        },
+        {
+          "hash": "0x9c7dae3be5063b0cd8ab6d600db9032c699ab732ad53940ee51aecf4aa3fa9ed",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-2",
+        "sourceTimestamp": 1784398500000,
+        "leafHash": "0x30d74917de72bd7e60c881fc672c30ec54d0da3b7f407d29418280c3c1be148a",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x25adff7e785945069dec79f0690041c8002cd7425f01d1315660feb55b20f5d5",
+        "proofBundleHash": "0x0c55e4748721ce989a9288aee74d87b931fe7599abac0d38345e3aa43a1f6362",
+        "verifiedAt": 1784398526000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0xa0be25b20fd90c541eb197e628b59ae98a495478f848c85a370e4da82b0a26d1"
+  },
+  {
+    "ringIndex": 5947995,
+    "availableAt": 1784398830000,
+    "odds": {
+      "leaf": "0xacfcabb351d7c51402c0a17ead4925c27c77d7fe1b88ac2b4c707bb4ad7eb35a",
+      "root": "0x2d4ceac91a51969e096c6c45915ef658346fd5b362b9465b1a3da631bc69ae0a",
+      "proof": [
+        {
+          "hash": "0x668b87d8df6d8683a2b0924d3493fb74546270b619a6a87abaadd59abc025fc3",
+          "position": "right"
+        },
+        {
+          "hash": "0x82eec90d358e95227d2b3adb4a6579425da121f798c42908be8381ec56e1ce98",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-3",
+        "sourceTimestamp": 1784398800000,
+        "leafHash": "0xacfcabb351d7c51402c0a17ead4925c27c77d7fe1b88ac2b4c707bb4ad7eb35a",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x2d4ceac91a51969e096c6c45915ef658346fd5b362b9465b1a3da631bc69ae0a",
+        "proofBundleHash": "0xbf2874a9163d384535aea93e1dd301df401a33c1ab4f967e74a50f2d4955be95",
+        "verifiedAt": 1784398830000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0x668b87d8df6d8683a2b0924d3493fb74546270b619a6a87abaadd59abc025fc3",
+      "root": "0x2d4ceac91a51969e096c6c45915ef658346fd5b362b9465b1a3da631bc69ae0a",
+      "proof": [
+        {
+          "hash": "0xacfcabb351d7c51402c0a17ead4925c27c77d7fe1b88ac2b4c707bb4ad7eb35a",
+          "position": "left"
+        },
+        {
+          "hash": "0x82eec90d358e95227d2b3adb4a6579425da121f798c42908be8381ec56e1ce98",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-3",
+        "sourceTimestamp": 1784398800000,
+        "leafHash": "0x668b87d8df6d8683a2b0924d3493fb74546270b619a6a87abaadd59abc025fc3",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x2d4ceac91a51969e096c6c45915ef658346fd5b362b9465b1a3da631bc69ae0a",
+        "proofBundleHash": "0x489ed3bf58b8d66eddd3e29caf27efc69df55d61fe5efc9e1cef4c9b133d8400",
+        "verifiedAt": 1784398830000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0x11436de716979c7c3aae76dc20e00a193acfd9ca6ad0411896a4872783e7e0e7"
+  },
+  {
+    "ringIndex": 5947996,
+    "availableAt": 1784399134000,
+    "odds": {
+      "leaf": "0x605bc9965566bcccc28e502a85659321c37ca8b46578d04e5ae258c244313833",
+      "root": "0x00ae1a9a37f5c82a71d4144a144a5270c51c44424ea85d6bdefcda2d8e94212a",
+      "proof": [
+        {
+          "hash": "0x6ea8ba9896a191d2e90e1e8779fac575bcc845046516d5c584fc4b3d3772f5c0",
+          "position": "right"
+        },
+        {
+          "hash": "0x9f503d4d58930705a4acc7001c2f3e92b6c8c01570ea4198e6e45d8355523581",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-4",
+        "sourceTimestamp": 1784399100000,
+        "leafHash": "0x605bc9965566bcccc28e502a85659321c37ca8b46578d04e5ae258c244313833",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x00ae1a9a37f5c82a71d4144a144a5270c51c44424ea85d6bdefcda2d8e94212a",
+        "proofBundleHash": "0xbe64831bae154ae7903fd6f9777dba9708dcd7cfda912134c78cffd06818eb23",
+        "verifiedAt": 1784399134000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0x6ea8ba9896a191d2e90e1e8779fac575bcc845046516d5c584fc4b3d3772f5c0",
+      "root": "0x00ae1a9a37f5c82a71d4144a144a5270c51c44424ea85d6bdefcda2d8e94212a",
+      "proof": [
+        {
+          "hash": "0x605bc9965566bcccc28e502a85659321c37ca8b46578d04e5ae258c244313833",
+          "position": "left"
+        },
+        {
+          "hash": "0x9f503d4d58930705a4acc7001c2f3e92b6c8c01570ea4198e6e45d8355523581",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-4",
+        "sourceTimestamp": 1784399100000,
+        "leafHash": "0x6ea8ba9896a191d2e90e1e8779fac575bcc845046516d5c584fc4b3d3772f5c0",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x00ae1a9a37f5c82a71d4144a144a5270c51c44424ea85d6bdefcda2d8e94212a",
+        "proofBundleHash": "0x3689c9dad62887b1296e6802090e55a72e9e76fb70f98ef058d0fb02bc667374",
+        "verifiedAt": 1784399134000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0x3c056de39efa089f51923dc9576c9a39cbc5e69a0ed095e08b3e056dc0b1dbc9"
+  },
+  {
+    "ringIndex": 5947997,
+    "availableAt": 1784399418000,
+    "odds": {
+      "leaf": "0x1194c0095bd00d597482c5586933d55982db95a61ab898d271b540aa35073d99",
+      "root": "0x617d15d8293f98e7109c05c603dd954f676b66dec58bbfb90120b8a5c8efed11",
+      "proof": [
+        {
+          "hash": "0x72511071d5bb26c344a9778cc2b48c61c2dfcbf17eb8c11e72b6c2dfc1bb3249",
+          "position": "right"
+        },
+        {
+          "hash": "0x0bdd83c5a6016660b30273b3f67a28ab4691000ece9002fcda33aef84d973661",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-5",
+        "sourceTimestamp": 1784399400000,
+        "leafHash": "0x1194c0095bd00d597482c5586933d55982db95a61ab898d271b540aa35073d99",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x617d15d8293f98e7109c05c603dd954f676b66dec58bbfb90120b8a5c8efed11",
+        "proofBundleHash": "0xfa9f8e0eefa0d47f31da2d66412f4996cc8224c85610f6254d1eba473e939131",
+        "verifiedAt": 1784399418000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0x72511071d5bb26c344a9778cc2b48c61c2dfcbf17eb8c11e72b6c2dfc1bb3249",
+      "root": "0x617d15d8293f98e7109c05c603dd954f676b66dec58bbfb90120b8a5c8efed11",
+      "proof": [
+        {
+          "hash": "0x1194c0095bd00d597482c5586933d55982db95a61ab898d271b540aa35073d99",
+          "position": "left"
+        },
+        {
+          "hash": "0x0bdd83c5a6016660b30273b3f67a28ab4691000ece9002fcda33aef84d973661",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-5",
+        "sourceTimestamp": 1784399400000,
+        "leafHash": "0x72511071d5bb26c344a9778cc2b48c61c2dfcbf17eb8c11e72b6c2dfc1bb3249",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x617d15d8293f98e7109c05c603dd954f676b66dec58bbfb90120b8a5c8efed11",
+        "proofBundleHash": "0x4476be3283ea0686e82035dde4644d15090459464b73b20d6e636406cf349755",
+        "verifiedAt": 1784399418000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0xbefa9dc3c02f5144d020d1183f054fa137894e761ef68ed31923620c8998ccaa"
+  },
+  {
+    "ringIndex": 5947998,
+    "availableAt": 1784399877000,
+    "odds": {
+      "leaf": "0xb4c2b5209371289f1ba460fc766a2a45da41c6b273dac5328dd56a45c1336d4f",
+      "root": "0xf4a51d8a312ee0347b7562e3d25f805ebfce31a005f81f333bb0c20a83bb496b",
+      "proof": [
+        {
+          "hash": "0x919ce9328d14516f04b7b86311747d82ed67ae67f445eb3d380bc4646bdd17d3",
+          "position": "right"
+        },
+        {
+          "hash": "0x4e106862c52fe8eb61f1b4220107970c80a61c2d7f2c6e41fa96f55292a641ad",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-6",
+        "sourceTimestamp": 1784399700000,
+        "leafHash": "0xb4c2b5209371289f1ba460fc766a2a45da41c6b273dac5328dd56a45c1336d4f",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0xf4a51d8a312ee0347b7562e3d25f805ebfce31a005f81f333bb0c20a83bb496b",
+        "proofBundleHash": "0xfdd352aa4cdb37c3eb395f48f370fca16bff1de8b3f1e11a309139630e66f1af",
+        "verifiedAt": 1784399877000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0x919ce9328d14516f04b7b86311747d82ed67ae67f445eb3d380bc4646bdd17d3",
+      "root": "0xf4a51d8a312ee0347b7562e3d25f805ebfce31a005f81f333bb0c20a83bb496b",
+      "proof": [
+        {
+          "hash": "0xb4c2b5209371289f1ba460fc766a2a45da41c6b273dac5328dd56a45c1336d4f",
+          "position": "left"
+        },
+        {
+          "hash": "0x4e106862c52fe8eb61f1b4220107970c80a61c2d7f2c6e41fa96f55292a641ad",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-6",
+        "sourceTimestamp": 1784399700000,
+        "leafHash": "0x919ce9328d14516f04b7b86311747d82ed67ae67f445eb3d380bc4646bdd17d3",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0xf4a51d8a312ee0347b7562e3d25f805ebfce31a005f81f333bb0c20a83bb496b",
+        "proofBundleHash": "0xc2c77503a56d32ed4c244f924c011d0ffe2e754e8ee2fb85a8351ea3d116ad10",
+        "verifiedAt": 1784399877000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0x05eda05ea7c289c30b6e3cc8e90f253a5b2f42499d486cfb4ee470633b6e95bc"
+  },
+  {
+    "ringIndex": 5947999,
+    "availableAt": 1784400026000,
+    "odds": {
+      "leaf": "0x394debde1991d9e4c9d12159af92272a567496554a9fa11487d057dd0dc6a9a6",
+      "root": "0x0cfb0194df0ded53c1b3b98aeda599d0094bf295f9d26f837039140604bc7deb",
+      "proof": [
+        {
+          "hash": "0xc93e994f2156b703c43f9bf71d69e943053c43f3618af808910ec01e9a0426c1",
+          "position": "right"
+        },
+        {
+          "hash": "0x7c03fff3a191f74ffecf44262a3253115648219543a4c191f4aa442657a9aa05",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-7",
+        "sourceTimestamp": 1784400000000,
+        "leafHash": "0x394debde1991d9e4c9d12159af92272a567496554a9fa11487d057dd0dc6a9a6",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x0cfb0194df0ded53c1b3b98aeda599d0094bf295f9d26f837039140604bc7deb",
+        "proofBundleHash": "0x9c4a24f5aa6915228bfa79345181ee0ef6ae489ec6c98c5380bf27249f166aba",
+        "verifiedAt": 1784400026000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0xc93e994f2156b703c43f9bf71d69e943053c43f3618af808910ec01e9a0426c1",
+      "root": "0x0cfb0194df0ded53c1b3b98aeda599d0094bf295f9d26f837039140604bc7deb",
+      "proof": [
+        {
+          "hash": "0x394debde1991d9e4c9d12159af92272a567496554a9fa11487d057dd0dc6a9a6",
+          "position": "left"
+        },
+        {
+          "hash": "0x7c03fff3a191f74ffecf44262a3253115648219543a4c191f4aa442657a9aa05",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-7",
+        "sourceTimestamp": 1784400000000,
+        "leafHash": "0xc93e994f2156b703c43f9bf71d69e943053c43f3618af808910ec01e9a0426c1",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x0cfb0194df0ded53c1b3b98aeda599d0094bf295f9d26f837039140604bc7deb",
+        "proofBundleHash": "0x6eda9f95d764e4e90f83580d64efe6e913398f83953c84aaa4c8256f8d3cb123",
+        "verifiedAt": 1784400026000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0xd86e17cc44dab2cf528e59c411f824025d7c8c4a88b1861f9287d10279932ca8"
+  },
+  {
+    "ringIndex": 5948000,
+    "availableAt": 1784400330000,
+    "odds": {
+      "leaf": "0x64eaca2c4d9b57f0a2a564d6d5251b447e93de4e94db40bdf5f9f205184cf797",
+      "root": "0x3f239d3e2b8a67a0141f4833f15a46a99f97db6c83c39fdb02ad8b0550f9d9d5",
+      "proof": [
+        {
+          "hash": "0xd2ccf1d95968f998e1c143855b85f45c6fca0e8f5549de2acafe4e26ba50d27c",
+          "position": "right"
+        },
+        {
+          "hash": "0xfe24e7cd9f8b0e42840ea4ac9db14fce1bd2538d66da245169bb18ce33819231",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-8",
+        "sourceTimestamp": 1784400300000,
+        "leafHash": "0x64eaca2c4d9b57f0a2a564d6d5251b447e93de4e94db40bdf5f9f205184cf797",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x3f239d3e2b8a67a0141f4833f15a46a99f97db6c83c39fdb02ad8b0550f9d9d5",
+        "proofBundleHash": "0x31ae9408c061e9f405f8399a8376f4bd6535611233bbaabea6c27cdc9a3e8aa0",
+        "verifiedAt": 1784400330000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0xd2ccf1d95968f998e1c143855b85f45c6fca0e8f5549de2acafe4e26ba50d27c",
+      "root": "0x3f239d3e2b8a67a0141f4833f15a46a99f97db6c83c39fdb02ad8b0550f9d9d5",
+      "proof": [
+        {
+          "hash": "0x64eaca2c4d9b57f0a2a564d6d5251b447e93de4e94db40bdf5f9f205184cf797",
+          "position": "left"
+        },
+        {
+          "hash": "0xfe24e7cd9f8b0e42840ea4ac9db14fce1bd2538d66da245169bb18ce33819231",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-8",
+        "sourceTimestamp": 1784400300000,
+        "leafHash": "0xd2ccf1d95968f998e1c143855b85f45c6fca0e8f5549de2acafe4e26ba50d27c",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x3f239d3e2b8a67a0141f4833f15a46a99f97db6c83c39fdb02ad8b0550f9d9d5",
+        "proofBundleHash": "0x41be015cf1dec94485961c58cfe2f906b6db6068a4cbc3c10f38d25f81beedb4",
+        "verifiedAt": 1784400330000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0xbc7191bd5b62f276de2cca1670d9832e7963facb33796cc106efef3c5fba5b2b"
+  },
+  {
+    "ringIndex": 5948001,
+    "availableAt": 1784400634000,
+    "odds": {
+      "leaf": "0xc5c110a8ad48f058c1871d3b7d697505b8c3b5f66bd761e0372c3d0307aba980",
+      "root": "0xe0629c17501ecadc99c87f8ec34b20f3f10880eb97cac10c6e7e70b6076d1c78",
+      "proof": [
+        {
+          "hash": "0xe5930f44f3ba1d5bb5012bf475d2f9152cd5accabccbf016c5670c9b132cbb81",
+          "position": "right"
+        },
+        {
+          "hash": "0xfdc0166e5eb550dba2686861805f33e48837bc5eab298288e3372b6f4b79bb8c",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-9",
+        "sourceTimestamp": 1784400600000,
+        "leafHash": "0xc5c110a8ad48f058c1871d3b7d697505b8c3b5f66bd761e0372c3d0307aba980",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0xe0629c17501ecadc99c87f8ec34b20f3f10880eb97cac10c6e7e70b6076d1c78",
+        "proofBundleHash": "0x1ef6355b6ba656ded2679f9a123b3e3eeb97cb350dff46760c8cac9fcdfc3f26",
+        "verifiedAt": 1784400634000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0xe5930f44f3ba1d5bb5012bf475d2f9152cd5accabccbf016c5670c9b132cbb81",
+      "root": "0xe0629c17501ecadc99c87f8ec34b20f3f10880eb97cac10c6e7e70b6076d1c78",
+      "proof": [
+        {
+          "hash": "0xc5c110a8ad48f058c1871d3b7d697505b8c3b5f66bd761e0372c3d0307aba980",
+          "position": "left"
+        },
+        {
+          "hash": "0xfdc0166e5eb550dba2686861805f33e48837bc5eab298288e3372b6f4b79bb8c",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-9",
+        "sourceTimestamp": 1784400600000,
+        "leafHash": "0xe5930f44f3ba1d5bb5012bf475d2f9152cd5accabccbf016c5670c9b132cbb81",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0xe0629c17501ecadc99c87f8ec34b20f3f10880eb97cac10c6e7e70b6076d1c78",
+        "proofBundleHash": "0x4c6229506c4830da7dd48c713036c98f6cb075807d84c101355a7afb029ef6ad",
+        "verifiedAt": 1784400634000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0x5bae849eba43db83590522a67e00b4f036a5bc1d50e1c153de0692df32ec32b5"
+  },
+  {
+    "ringIndex": 5948002,
+    "availableAt": 1784400918000,
+    "odds": {
+      "leaf": "0x8427f0aa8abffd8700d65d2c5dff29d754e5e1f5d825ff64b5325e49441a85e7",
+      "root": "0xe0f2993477a892c9683fa9277f723edfda167f7885422fd120baeeca8d81884b",
+      "proof": [
+        {
+          "hash": "0xe6bb407374ce7a81a9cba0a2e81c18731cb5f7fa7e42e8bc4f2678adddea8c1e",
+          "position": "right"
+        },
+        {
+          "hash": "0x5979eadfbdaa34f4eb430a61c32857478c687e481e2d4b22ff7cd9fadf014a8a",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-10",
+        "sourceTimestamp": 1784400900000,
+        "leafHash": "0x8427f0aa8abffd8700d65d2c5dff29d754e5e1f5d825ff64b5325e49441a85e7",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0xe0f2993477a892c9683fa9277f723edfda167f7885422fd120baeeca8d81884b",
+        "proofBundleHash": "0x86334f1cb62dc95899d8ef96b277a3e775f660f70451714fc78b45338b6cf6f3",
+        "verifiedAt": 1784400918000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0xe6bb407374ce7a81a9cba0a2e81c18731cb5f7fa7e42e8bc4f2678adddea8c1e",
+      "root": "0xe0f2993477a892c9683fa9277f723edfda167f7885422fd120baeeca8d81884b",
+      "proof": [
+        {
+          "hash": "0x8427f0aa8abffd8700d65d2c5dff29d754e5e1f5d825ff64b5325e49441a85e7",
+          "position": "left"
+        },
+        {
+          "hash": "0x5979eadfbdaa34f4eb430a61c32857478c687e481e2d4b22ff7cd9fadf014a8a",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-10",
+        "sourceTimestamp": 1784400900000,
+        "leafHash": "0xe6bb407374ce7a81a9cba0a2e81c18731cb5f7fa7e42e8bc4f2678adddea8c1e",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0xe0f2993477a892c9683fa9277f723edfda167f7885422fd120baeeca8d81884b",
+        "proofBundleHash": "0x13fe8b3b6a1c6c28c7fb29cf9c36bdd0f99b72807ddd44e096c2a08111c139c7",
+        "verifiedAt": 1784400918000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0x71f1fa1f9697a8ca8d5c086ca82a291125d839a002714736ed7a41e531ad296f"
+  },
+  {
+    "ringIndex": 5948003,
+    "availableAt": 1784401222000,
+    "odds": {
+      "leaf": "0x242bb43f79a6f59fceb553dc29472db4b2716a2bb666d1ae2c1d1260f79cc4e8",
+      "root": "0xed2c4809fa3ab1f0fa7fd5d8d027db54746f8b27731d18d5accfed26f5a39fd4",
+      "proof": [
+        {
+          "hash": "0xb8d1f897922f3064800a480d2f5554012b1309c0438cf19fafba156f8c3bca74",
+          "position": "right"
+        },
+        {
+          "hash": "0xb0151902bec22a1c22aea135211c6b3a23c99a143c5f9e1f4443f39a6a6ab9ec",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-11",
+        "sourceTimestamp": 1784401200000,
+        "leafHash": "0x242bb43f79a6f59fceb553dc29472db4b2716a2bb666d1ae2c1d1260f79cc4e8",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0xed2c4809fa3ab1f0fa7fd5d8d027db54746f8b27731d18d5accfed26f5a39fd4",
+        "proofBundleHash": "0x896e96ae2efc0fe3b37b35318496b4b75daeb3bde3779055007274c80a91faf6",
+        "verifiedAt": 1784401222000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0xb8d1f897922f3064800a480d2f5554012b1309c0438cf19fafba156f8c3bca74",
+      "root": "0xed2c4809fa3ab1f0fa7fd5d8d027db54746f8b27731d18d5accfed26f5a39fd4",
+      "proof": [
+        {
+          "hash": "0x242bb43f79a6f59fceb553dc29472db4b2716a2bb666d1ae2c1d1260f79cc4e8",
+          "position": "left"
+        },
+        {
+          "hash": "0xb0151902bec22a1c22aea135211c6b3a23c99a143c5f9e1f4443f39a6a6ab9ec",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-11",
+        "sourceTimestamp": 1784401200000,
+        "leafHash": "0xb8d1f897922f3064800a480d2f5554012b1309c0438cf19fafba156f8c3bca74",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0xed2c4809fa3ab1f0fa7fd5d8d027db54746f8b27731d18d5accfed26f5a39fd4",
+        "proofBundleHash": "0xb04ef4f6eb7e505b7f7da0a1e73a061feb72d91a82f673febbd3761679fd26c1",
+        "verifiedAt": 1784401222000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0xf7b51e63976de11b72100bac93e16bcca5fb32e5b67feaa5c84b06a56b036c46"
+  },
+  {
+    "ringIndex": 5948004,
+    "availableAt": 1784401526000,
+    "odds": {
+      "leaf": "0x0d3d66c1b7f5414f6725ecb9e56c67432ed2418d0fe8ad419210b16ab9e37585",
+      "root": "0x43eb8b3f7f4dec3345d7c819c742f9f4693fc02f74799125f4fcac01bb26f586",
+      "proof": [
+        {
+          "hash": "0x9c11a3b80174c3cd0912eb53537cce6b08a405eb5c85c00c5d54c7e4cb5a6364",
+          "position": "right"
+        },
+        {
+          "hash": "0x0d02a02d334095c78d9b6f9e609c55414a2577e97fffcfbe2fac46a197a4b7fa",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-12",
+        "sourceTimestamp": 1784401500000,
+        "leafHash": "0x0d3d66c1b7f5414f6725ecb9e56c67432ed2418d0fe8ad419210b16ab9e37585",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x43eb8b3f7f4dec3345d7c819c742f9f4693fc02f74799125f4fcac01bb26f586",
+        "proofBundleHash": "0xa0b26f532b85053b0a33d2b8d9799186072d4b6c97b4b915bc9918de7cdb46d2",
+        "verifiedAt": 1784401526000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0x9c11a3b80174c3cd0912eb53537cce6b08a405eb5c85c00c5d54c7e4cb5a6364",
+      "root": "0x43eb8b3f7f4dec3345d7c819c742f9f4693fc02f74799125f4fcac01bb26f586",
+      "proof": [
+        {
+          "hash": "0x0d3d66c1b7f5414f6725ecb9e56c67432ed2418d0fe8ad419210b16ab9e37585",
+          "position": "left"
+        },
+        {
+          "hash": "0x0d02a02d334095c78d9b6f9e609c55414a2577e97fffcfbe2fac46a197a4b7fa",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-12",
+        "sourceTimestamp": 1784401500000,
+        "leafHash": "0x9c11a3b80174c3cd0912eb53537cce6b08a405eb5c85c00c5d54c7e4cb5a6364",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x43eb8b3f7f4dec3345d7c819c742f9f4693fc02f74799125f4fcac01bb26f586",
+        "proofBundleHash": "0x502b8af3cb9f86340f4df0182e78321f54843762c2d4ca2718b2143a3492bae0",
+        "verifiedAt": 1784401526000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0xe6cfd83717c3d3b085d54c7a2f8d2dd76c2363f5cf4c8abdb63044fcdb6df248"
+  },
+  {
+    "ringIndex": 5948005,
+    "availableAt": 1784401830000,
+    "odds": {
+      "leaf": "0x5fc4b9a2a21b64cfc78c59d830739d0013b1eb31cac235850f329807fd502ef7",
+      "root": "0x196341d0238a788f6763fa329b92e94f00b4b9abee10870698d425e5f681ec4e",
+      "proof": [
+        {
+          "hash": "0x08eca3cd489e31caf264d81e9836ee36b8b06d7675e80116547caf6955b2f007",
+          "position": "right"
+        },
+        {
+          "hash": "0x2c5e5278142225d2a4025db77de5acbc81b54598fc8d272af37db69e9d466d68",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-13",
+        "sourceTimestamp": 1784401800000,
+        "leafHash": "0x5fc4b9a2a21b64cfc78c59d830739d0013b1eb31cac235850f329807fd502ef7",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x196341d0238a788f6763fa329b92e94f00b4b9abee10870698d425e5f681ec4e",
+        "proofBundleHash": "0xe3f1c24b72f0f5482791a6eaa2c4ecec892f619cb5111f0603c864db271dfffa",
+        "verifiedAt": 1784401830000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0x08eca3cd489e31caf264d81e9836ee36b8b06d7675e80116547caf6955b2f007",
+      "root": "0x196341d0238a788f6763fa329b92e94f00b4b9abee10870698d425e5f681ec4e",
+      "proof": [
+        {
+          "hash": "0x5fc4b9a2a21b64cfc78c59d830739d0013b1eb31cac235850f329807fd502ef7",
+          "position": "left"
+        },
+        {
+          "hash": "0x2c5e5278142225d2a4025db77de5acbc81b54598fc8d272af37db69e9d466d68",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-13",
+        "sourceTimestamp": 1784401800000,
+        "leafHash": "0x08eca3cd489e31caf264d81e9836ee36b8b06d7675e80116547caf6955b2f007",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x196341d0238a788f6763fa329b92e94f00b4b9abee10870698d425e5f681ec4e",
+        "proofBundleHash": "0x59983191bd8ae40dec4e9db252b82e2a405c96ffc0aadccd55824dad81537028",
+        "verifiedAt": 1784401830000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0x48baa0b37c0f70b6be9d68bb90b58c3cecfe173fe35b31535f963b3cd7406060"
+  },
+  {
+    "ringIndex": 5948006,
+    "availableAt": 1784402339000,
+    "odds": {
+      "leaf": "0x274f81edce50e38c28725703ac39732ca1042219efeb5d522ca085dd2ab079f5",
+      "root": "0x0f9e1398cc3a8444d52e5a8759cef52b1746135d9b049dd7d616c13e44644a9c",
+      "proof": [
+        {
+          "hash": "0x4818444511a991b03df6169b97383ae948484d42117ceedc13079a3c649009be",
+          "position": "right"
+        },
+        {
+          "hash": "0x97443dce1c7ff75e30bd82b530e3d79c49580fb6a7a87a5e071bfe7000944245",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-14",
+        "sourceTimestamp": 1784402100000,
+        "leafHash": "0x274f81edce50e38c28725703ac39732ca1042219efeb5d522ca085dd2ab079f5",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x0f9e1398cc3a8444d52e5a8759cef52b1746135d9b049dd7d616c13e44644a9c",
+        "proofBundleHash": "0xb8574a36cb54a16d2b4ff49b1cdb929ad50cfedb0356758a8ff5e17043cb5586",
+        "verifiedAt": 1784402339000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0x4818444511a991b03df6169b97383ae948484d42117ceedc13079a3c649009be",
+      "root": "0x0f9e1398cc3a8444d52e5a8759cef52b1746135d9b049dd7d616c13e44644a9c",
+      "proof": [
+        {
+          "hash": "0x274f81edce50e38c28725703ac39732ca1042219efeb5d522ca085dd2ab079f5",
+          "position": "left"
+        },
+        {
+          "hash": "0x97443dce1c7ff75e30bd82b530e3d79c49580fb6a7a87a5e071bfe7000944245",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-14",
+        "sourceTimestamp": 1784402100000,
+        "leafHash": "0x4818444511a991b03df6169b97383ae948484d42117ceedc13079a3c649009be",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x0f9e1398cc3a8444d52e5a8759cef52b1746135d9b049dd7d616c13e44644a9c",
+        "proofBundleHash": "0xfc0e9c1d40e902ea4c71d01a359062b113fb107feaa3b495286381d5654aa48f",
+        "verifiedAt": 1784402339000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0xab703357df2e3c7c82bfbd347c47f79f3f4c96ad065597fc88bc5eba16e1f293"
+  },
+  {
+    "ringIndex": 5948007,
+    "availableAt": 1784402418000,
+    "odds": {
+      "leaf": "0x0a1dec5176dad758e2a88c3526667915bc277c09ab30d2716fe49b07d0a16971",
+      "root": "0x3af13aa94c9538fac609190922af5cbd8a603a8b7c092e9e0ccdd10c380fe609",
+      "proof": [
+        {
+          "hash": "0xbd10f6a3499a6bc911f06866d623450259e79c05961fe3465fe282129cf083eb",
+          "position": "right"
+        },
+        {
+          "hash": "0x72b28bf9cbe4e67003fb52b0315bf31de627ec046b9c0b532cf5942d92844db0",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-15",
+        "sourceTimestamp": 1784402400000,
+        "leafHash": "0x0a1dec5176dad758e2a88c3526667915bc277c09ab30d2716fe49b07d0a16971",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x3af13aa94c9538fac609190922af5cbd8a603a8b7c092e9e0ccdd10c380fe609",
+        "proofBundleHash": "0x3c30cb4aed613b60f8896b3c68865d673fea8713e156921f17875771cc9f89b9",
+        "verifiedAt": 1784402418000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0xbd10f6a3499a6bc911f06866d623450259e79c05961fe3465fe282129cf083eb",
+      "root": "0x3af13aa94c9538fac609190922af5cbd8a603a8b7c092e9e0ccdd10c380fe609",
+      "proof": [
+        {
+          "hash": "0x0a1dec5176dad758e2a88c3526667915bc277c09ab30d2716fe49b07d0a16971",
+          "position": "left"
+        },
+        {
+          "hash": "0x72b28bf9cbe4e67003fb52b0315bf31de627ec046b9c0b532cf5942d92844db0",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-15",
+        "sourceTimestamp": 1784402400000,
+        "leafHash": "0xbd10f6a3499a6bc911f06866d623450259e79c05961fe3465fe282129cf083eb",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x3af13aa94c9538fac609190922af5cbd8a603a8b7c092e9e0ccdd10c380fe609",
+        "proofBundleHash": "0x33667ac3b22c9fb0e97fbf954f51f19d6ad1a0f6de46fe03c37b428e71887758",
+        "verifiedAt": 1784402418000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0x9a2f95c4f2bdda219942622ba1703ba66f8a2008313d846124b027a86ed38c7d"
+  },
+  {
+    "ringIndex": 5948008,
+    "availableAt": 1784402722000,
+    "odds": {
+      "leaf": "0x09f311e9acec3f725e2c929c70ba036659125081748ba0dd3d9ab6d664f4f5b5",
+      "root": "0x16977f3b15ccf006ed2bc3f499f60973185e1be1e1c91c64fc68031575121097",
+      "proof": [
+        {
+          "hash": "0x2f92fc78ab7827b563a348a945f91ab4d0935714ecd298b1c64bb4288f8ee82a",
+          "position": "right"
+        },
+        {
+          "hash": "0xa328285d371dfecd963ae70298d9070421cc09828ff5820a035ae0cd3acb511d",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-16",
+        "sourceTimestamp": 1784402700000,
+        "leafHash": "0x09f311e9acec3f725e2c929c70ba036659125081748ba0dd3d9ab6d664f4f5b5",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x16977f3b15ccf006ed2bc3f499f60973185e1be1e1c91c64fc68031575121097",
+        "proofBundleHash": "0x619426653d7676035e24ddd4f39f259cab552a6f3924d1f5ec03c54f016f291a",
+        "verifiedAt": 1784402722000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0x2f92fc78ab7827b563a348a945f91ab4d0935714ecd298b1c64bb4288f8ee82a",
+      "root": "0x16977f3b15ccf006ed2bc3f499f60973185e1be1e1c91c64fc68031575121097",
+      "proof": [
+        {
+          "hash": "0x09f311e9acec3f725e2c929c70ba036659125081748ba0dd3d9ab6d664f4f5b5",
+          "position": "left"
+        },
+        {
+          "hash": "0xa328285d371dfecd963ae70298d9070421cc09828ff5820a035ae0cd3acb511d",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-16",
+        "sourceTimestamp": 1784402700000,
+        "leafHash": "0x2f92fc78ab7827b563a348a945f91ab4d0935714ecd298b1c64bb4288f8ee82a",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x16977f3b15ccf006ed2bc3f499f60973185e1be1e1c91c64fc68031575121097",
+        "proofBundleHash": "0x5329642a0333be6dc8f2941fdcbfdcbb7ad8a9dbce45ab41b5ec67a46099039c",
+        "verifiedAt": 1784402722000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0x7f0739ad2e9f8784750324ea0e022973c282db07a19e20c402ed78370ed73a82"
+  },
+  {
+    "ringIndex": 5948009,
+    "availableAt": 1784403026000,
+    "odds": {
+      "leaf": "0xf745688a7b20e8bfd833569bcd398d2ef8f479430c93ce042a7373573d41c749",
+      "root": "0x65d3e3d8839ef7392325691c286bcf25b228e869cce8c4cc5d0c92f45db9fa4b",
+      "proof": [
+        {
+          "hash": "0xc45425836bb47c3c2f0bcbb52872c947ffc49c6f48eba8bfa2a0f2e4c4fc1682",
+          "position": "right"
+        },
+        {
+          "hash": "0x1c44c6d547fe1bb8907fe39ba6e1d64b568629c60123925a162bd46bb63dbbb0",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-17",
+        "sourceTimestamp": 1784403000000,
+        "leafHash": "0xf745688a7b20e8bfd833569bcd398d2ef8f479430c93ce042a7373573d41c749",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x65d3e3d8839ef7392325691c286bcf25b228e869cce8c4cc5d0c92f45db9fa4b",
+        "proofBundleHash": "0xd6a731dbb42f4629e2e1c956be94d63795bb71dc3ed1bb764e8287bde7c0332f",
+        "verifiedAt": 1784403026000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0xc45425836bb47c3c2f0bcbb52872c947ffc49c6f48eba8bfa2a0f2e4c4fc1682",
+      "root": "0x65d3e3d8839ef7392325691c286bcf25b228e869cce8c4cc5d0c92f45db9fa4b",
+      "proof": [
+        {
+          "hash": "0xf745688a7b20e8bfd833569bcd398d2ef8f479430c93ce042a7373573d41c749",
+          "position": "left"
+        },
+        {
+          "hash": "0x1c44c6d547fe1bb8907fe39ba6e1d64b568629c60123925a162bd46bb63dbbb0",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-17",
+        "sourceTimestamp": 1784403000000,
+        "leafHash": "0xc45425836bb47c3c2f0bcbb52872c947ffc49c6f48eba8bfa2a0f2e4c4fc1682",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x65d3e3d8839ef7392325691c286bcf25b228e869cce8c4cc5d0c92f45db9fa4b",
+        "proofBundleHash": "0x19c06ad09e544d65e73615dcb1d17f4923a3cbecd267a0c6d93522613423399f",
+        "verifiedAt": 1784403026000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0xda88d59f010e98661d619324bdb75a6d3a0fc3e5c16d9a7a82ab7007f8695a8e"
+  },
+  {
+    "ringIndex": 5948010,
+    "availableAt": 1784403330000,
+    "odds": {
+      "leaf": "0x26d44fa6dc1583457da4abcf1eee6dbcbf609fcedec22550162daf34a7b5cebd",
+      "root": "0xa7fe0f1a707e520e88e7730db148430b24e391d2f4aa847aad8b523f72d70436",
+      "proof": [
+        {
+          "hash": "0xa8526bf41a40c4bab318dd30fd89f56644ef7b0f4b8b00ee2a1eddfe18c44b7c",
+          "position": "right"
+        },
+        {
+          "hash": "0x8938ea8c3cf92e900cb41147155db1bbfb60ced0333d47edd296641a96648c3c",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-18",
+        "sourceTimestamp": 1784403300000,
+        "leafHash": "0x26d44fa6dc1583457da4abcf1eee6dbcbf609fcedec22550162daf34a7b5cebd",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0xa7fe0f1a707e520e88e7730db148430b24e391d2f4aa847aad8b523f72d70436",
+        "proofBundleHash": "0xc1d034b503c37e1f9d8af13e27c5db5040a0cf0bc487c084f8b9e3d81e1e07e7",
+        "verifiedAt": 1784403330000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0xa8526bf41a40c4bab318dd30fd89f56644ef7b0f4b8b00ee2a1eddfe18c44b7c",
+      "root": "0xa7fe0f1a707e520e88e7730db148430b24e391d2f4aa847aad8b523f72d70436",
+      "proof": [
+        {
+          "hash": "0x26d44fa6dc1583457da4abcf1eee6dbcbf609fcedec22550162daf34a7b5cebd",
+          "position": "left"
+        },
+        {
+          "hash": "0x8938ea8c3cf92e900cb41147155db1bbfb60ced0333d47edd296641a96648c3c",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-18",
+        "sourceTimestamp": 1784403300000,
+        "leafHash": "0xa8526bf41a40c4bab318dd30fd89f56644ef7b0f4b8b00ee2a1eddfe18c44b7c",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0xa7fe0f1a707e520e88e7730db148430b24e391d2f4aa847aad8b523f72d70436",
+        "proofBundleHash": "0xf25ac790ff2ffbe8e2af233a8022ef6d6237a1750673f0aa4e0e7c8d2af463eb",
+        "verifiedAt": 1784403330000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0xa53f28edc692c9031075e71411910aae98373fe42b475be403e2c026feacf27f"
+  },
+  {
+    "ringIndex": 5948011,
+    "availableAt": 1784403634000,
+    "odds": {
+      "leaf": "0x93b592c126ccb33b8c84aab5784abb9a1cc23724cf85967fa7af6c3fcdc3705a",
+      "root": "0x83c34c10c873979d1ff6aa5b2475f557a7a1e2a4c94920e9460a4ff414d5d2c3",
+      "proof": [
+        {
+          "hash": "0x73f7858a47f30fc657f55afc68d6c2201eb979c53b9fd81a22dfaf97c1b50fde",
+          "position": "right"
+        },
+        {
+          "hash": "0x10440596ac2eb58769a6563cf3a754a8cfab871c4e95138867525055ccf7cbf4",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "odds",
+        "sourceId": "odds-ring-19",
+        "sourceTimestamp": 1784403600000,
+        "leafHash": "0x93b592c126ccb33b8c84aab5784abb9a1cc23724cf85967fa7af6c3fcdc3705a",
+        "rootPda": "HBJnbyV8UiEtsD4zbzgK2b6g75gDQRQPKHriApF9W3CF",
+        "rootHash": "0x83c34c10c873979d1ff6aa5b2475f557a7a1e2a4c94920e9460a4ff414d5d2c3",
+        "proofBundleHash": "0x770afc673f019d04a7e2d1bf3a0bced0a6351897b54d1ed36557d7a6c5d772b1",
+        "verifiedAt": 1784403634000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "score": {
+      "leaf": "0x73f7858a47f30fc657f55afc68d6c2201eb979c53b9fd81a22dfaf97c1b50fde",
+      "root": "0x83c34c10c873979d1ff6aa5b2475f557a7a1e2a4c94920e9460a4ff414d5d2c3",
+      "proof": [
+        {
+          "hash": "0x93b592c126ccb33b8c84aab5784abb9a1cc23724cf85967fa7af6c3fcdc3705a",
+          "position": "left"
+        },
+        {
+          "hash": "0x10440596ac2eb58769a6563cf3a754a8cfab871c4e95138867525055ccf7cbf4",
+          "position": "right"
+        }
+      ],
+      "anchor": {
+        "kind": "score",
+        "sourceId": "score-ring-19",
+        "sourceTimestamp": 1784403600000,
+        "leafHash": "0x73f7858a47f30fc657f55afc68d6c2201eb979c53b9fd81a22dfaf97c1b50fde",
+        "rootPda": "C9vY83pzub2a4d3Qve5NuR4cuXc8Yq68fKRRad4xR4bi",
+        "rootHash": "0x83c34c10c873979d1ff6aa5b2475f557a7a1e2a4c94920e9460a4ff414d5d2c3",
+        "proofBundleHash": "0xc92af550bf08fc33a207a4b542c824293e371e39980c24bdc34da7e45d4cc052",
+        "verifiedAt": 1784403634000,
+        "verificationMode": "synthetic"
+      }
+    },
+    "metadataRoot": "0x522f916b81463b8ffbb7d3e3852f0e4f4ec66047d9735af7f998905ee784643d"
+  }
+]

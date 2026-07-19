@@ -1,0 +1,14 @@
+{
+  "address": "CuNH1eDimEDxxgomwG7VzYd9RDdiKPVkTBjXWeg9jkVF",
+  "metadata": {
+    "name": "match_dna",
+    "version": "0.1.0",
+    "spec": "0.1.0",
+    "description": "Commit/reveal provenance and proof-gated Match DNA sealing"
+  },
+  "instructions": [
+    { "name": "initialize_witness" },
+    { "name": "reveal_witness" },
+    { "name": "verify_txline_and_seal" }
+  ]
+}

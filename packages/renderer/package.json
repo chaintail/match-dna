@@ -1,0 +1,36 @@
+{
+  "name": "@match-dna/renderer",
+  "version": "0.1.0",
+  "description": "Deterministic radial geometry, Canvas witness rendering, and canonical SVG export.",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format esm --dts --sourcemap --external react --clean",
+    "dev": "tsup src/index.ts --format esm --dts --sourcemap --external react --watch",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run --pool=forks --maxWorkers=1",
+    "test:coverage": "vitest run --coverage --pool=forks --maxWorkers=1",
+    "clean": "rm -rf dist coverage"
+  },
+  "dependencies": {
+    "@match-dna/core": "workspace:*"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "devDependencies": {
+    "@match-dna/fixtures": "workspace:*",
+    "@types/react": "^19.1.9",
+    "react": "^19.1.1"
+  }
+}

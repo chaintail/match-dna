@@ -1,0 +1,33 @@
+{
+  "name": "@match-dna/sdk",
+  "version": "0.1.0",
+  "description": "Witness-to-canonical-to-proof orchestration for TxLINE applications.",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format esm --dts --sourcemap --clean",
+    "dev": "tsup src/index.ts --format esm --dts --sourcemap --watch",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run --pool=forks --maxWorkers=1",
+    "test:coverage": "vitest run --coverage --pool=forks --maxWorkers=1",
+    "clean": "rm -rf dist coverage"
+  },
+  "dependencies": {
+    "@match-dna/core": "workspace:*",
+    "@match-dna/txline": "workspace:*"
+  },
+  "devDependencies": {
+    "@match-dna/fixtures": "workspace:*"
+  }
+}

@@ -1,0 +1,149 @@
+[
+  {
+    "minute": 0,
+    "timestamp": 1784397600000,
+    "action": "kickoff",
+    "participant": null,
+    "label": "kickoff"
+  },
+  {
+    "minute": 6,
+    "timestamp": 1784397960000,
+    "action": "corner",
+    "participant": "away",
+    "label": "corner"
+  },
+  {
+    "minute": 12,
+    "timestamp": 1784398320000,
+    "action": "goal",
+    "participant": "away",
+    "label": "goal"
+  },
+  {
+    "minute": 18,
+    "timestamp": 1784398680000,
+    "action": "yellow_card",
+    "participant": "home",
+    "label": "yellow card"
+  },
+  {
+    "minute": 24,
+    "timestamp": 1784399040000,
+    "action": "shot",
+    "participant": "home",
+    "label": "shot"
+  },
+  {
+    "minute": 31,
+    "timestamp": 1784399460000,
+    "action": "possible_goal",
+    "participant": "home",
+    "label": "possible goal"
+  },
+  {
+    "minute": 31.15,
+    "timestamp": 1784399469000,
+    "action": "var_start",
+    "participant": "home",
+    "label": "var start"
+  },
+  {
+    "minute": 32.6,
+    "timestamp": 1784399556000,
+    "action": "goal_cancelled",
+    "participant": "home",
+    "label": "goal cancelled"
+  },
+  {
+    "minute": 37,
+    "timestamp": 1784399820000,
+    "action": "goal",
+    "participant": "home",
+    "label": "goal"
+  },
+  {
+    "minute": 45,
+    "timestamp": 1784400300000,
+    "action": "period_end",
+    "participant": null,
+    "label": "period end"
+  },
+  {
+    "minute": 46,
+    "timestamp": 1784400360000,
+    "action": "period_start",
+    "participant": null,
+    "label": "period start"
+  },
+  {
+    "minute": 52,
+    "timestamp": 1784400720000,
+    "action": "red_card",
+    "participant": "away",
+    "label": "red card"
+  },
+  {
+    "minute": 57,
+    "timestamp": 1784401020000,
+    "action": "corner",
+    "participant": "home",
+    "label": "corner"
+  },
+  {
+    "minute": 64,
+    "timestamp": 1784401440000,
+    "action": "shot",
+    "participant": "home",
+    "label": "shot"
+  },
+  {
+    "minute": 68,
+    "timestamp": 1784401680000,
+    "action": "goal",
+    "participant": "home",
+    "label": "goal"
+  },
+  {
+    "minute": 76,
+    "timestamp": 1784402160000,
+    "action": "yellow_card",
+    "participant": "away",
+    "label": "yellow card"
+  },
+  {
+    "minute": 86,
+    "timestamp": 1784402760000,
+    "action": "corner",
+    "participant": "away",
+    "label": "corner"
+  },
+  {
+    "minute": 91,
+    "timestamp": 1784403060000,
+    "action": "possible_goal",
+    "participant": "away",
+    "label": "possible goal"
+  },
+  {
+    "minute": 91.1,
+    "timestamp": 1784403066000,
+    "action": "var_start",
+    "participant": "away",
+    "label": "var start"
+  },
+  {
+    "minute": 92.2,
+    "timestamp": 1784403132000,
+    "action": "goal_cancelled",
+    "participant": "away",
+    "label": "goal cancelled"
+  },
+  {
+    "minute": 96,
+    "timestamp": 1784403360000,
+    "action": "game_finalised",
+    "participant": null,
+    "label": "game finalised"
+  }
+]
