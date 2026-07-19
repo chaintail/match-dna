@@ -1,0 +1,6 @@
+{
+  "outputDirectory": "apps/studio/dist",
+  "rewrites": [
+    { "source": "/story", "destination": "/story.html" }
+  ]
+}

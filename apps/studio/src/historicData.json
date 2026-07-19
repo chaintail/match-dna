@@ -1,0 +1,929 @@
+[
+  {
+    "name": "Mexico vs South Africa",
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "goals": 6,
+    "kickoffISO": "2026-06-11T19:05:00.000Z"
+  },
+  {
+    "name": "South Korea vs Czech Republic",
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "goals": 10,
+    "kickoffISO": "2026-06-12T02:00:00.000Z"
+  },
+  {
+    "name": "Canada vs Bosnia & Herzegovina",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 5,
+    "kickoffISO": "2026-06-12T19:02:00.000Z"
+  },
+  {
+    "name": "USA vs Paraguay",
+    "finalScore": {
+      "home": 4,
+      "away": 1
+    },
+    "goals": 12,
+    "kickoffISO": "2026-06-13T01:02:00.000Z"
+  },
+  {
+    "name": "Qatar vs Switzerland",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-13T19:00:00.000Z"
+  },
+  {
+    "name": "Brazil vs Morocco",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 6,
+    "kickoffISO": "2026-06-13T22:04:00.000Z"
+  },
+  {
+    "name": "Haiti vs Scotland",
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-14T01:02:00.000Z"
+  },
+  {
+    "name": "Australia vs Turkey",
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "goals": 4,
+    "kickoffISO": "2026-06-14T04:00:00.000Z"
+  },
+  {
+    "name": "Germany vs Curacao",
+    "finalScore": {
+      "home": 7,
+      "away": 1
+    },
+    "goals": 22,
+    "kickoffISO": "2026-06-14T17:00:00.000Z"
+  },
+  {
+    "name": "Netherlands vs Japan",
+    "finalScore": {
+      "home": 2,
+      "away": 2
+    },
+    "goals": 12,
+    "kickoffISO": "2026-06-14T20:00:00.000Z"
+  },
+  {
+    "name": "Ivory Coast vs Ecuador",
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-14T23:03:00.000Z"
+  },
+  {
+    "name": "Sweden vs Tunisia",
+    "finalScore": {
+      "home": 5,
+      "away": 1
+    },
+    "goals": 19,
+    "kickoffISO": "2026-06-15T02:00:00.000Z"
+  },
+  {
+    "name": "Spain vs Cape Verde",
+    "finalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "goals": 0,
+    "kickoffISO": "2026-06-15T16:00:00.000Z"
+  },
+  {
+    "name": "Belgium vs Egypt",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 6,
+    "kickoffISO": "2026-06-15T19:00:00.000Z"
+  },
+  {
+    "name": "Saudi Arabia vs Uruguay",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 6,
+    "kickoffISO": "2026-06-15T22:04:00.000Z"
+  },
+  {
+    "name": "Iran vs New Zealand",
+    "finalScore": {
+      "home": 2,
+      "away": 2
+    },
+    "goals": 13,
+    "kickoffISO": "2026-06-16T01:03:00.000Z"
+  },
+  {
+    "name": "France vs Senegal",
+    "finalScore": {
+      "home": 3,
+      "away": 1
+    },
+    "goals": 14,
+    "kickoffISO": "2026-06-16T19:00:00.000Z"
+  },
+  {
+    "name": "Iraq vs Norway",
+    "finalScore": {
+      "home": 1,
+      "away": 4
+    },
+    "goals": 16,
+    "kickoffISO": "2026-06-16T22:00:00.000Z"
+  },
+  {
+    "name": "Argentina vs Algeria",
+    "finalScore": {
+      "home": 3,
+      "away": 1
+    },
+    "goals": 11,
+    "kickoffISO": "2026-06-17T01:02:00.000Z"
+  },
+  {
+    "name": "Austria vs Jordan",
+    "finalScore": {
+      "home": 3,
+      "away": 1
+    },
+    "goals": 9,
+    "kickoffISO": "2026-06-17T04:02:00.000Z"
+  },
+  {
+    "name": "Portugal vs Congo DR",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 7,
+    "kickoffISO": "2026-06-17T17:00:00.000Z"
+  },
+  {
+    "name": "England vs Croatia",
+    "finalScore": {
+      "home": 4,
+      "away": 2
+    },
+    "goals": 14,
+    "kickoffISO": "2026-06-17T20:00:00.000Z"
+  },
+  {
+    "name": "Ghana vs Panama",
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-17T23:00:00.000Z"
+  },
+  {
+    "name": "Uzbekistan vs Colombia",
+    "finalScore": {
+      "home": 1,
+      "away": 3
+    },
+    "goals": 12,
+    "kickoffISO": "2026-06-18T02:00:00.000Z"
+  },
+  {
+    "name": "Czech Republic vs South Africa",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-18T16:00:00.000Z"
+  },
+  {
+    "name": "Switzerland vs Bosnia & Herzegovina",
+    "finalScore": {
+      "home": 4,
+      "away": 1
+    },
+    "goals": 12,
+    "kickoffISO": "2026-06-18T19:00:00.000Z"
+  },
+  {
+    "name": "Canada vs Qatar",
+    "finalScore": {
+      "home": 6,
+      "away": 0
+    },
+    "goals": 18,
+    "kickoffISO": "2026-06-18T22:00:00.000Z"
+  },
+  {
+    "name": "Mexico vs South Korea",
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-19T01:00:00.000Z"
+  },
+  {
+    "name": "USA vs Australia",
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "goals": 7,
+    "kickoffISO": "2026-06-19T19:00:00.000Z"
+  },
+  {
+    "name": "Scotland vs Morocco",
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-19T22:00:00.000Z"
+  },
+  {
+    "name": "Brazil vs Haiti",
+    "finalScore": {
+      "home": 3,
+      "away": 0
+    },
+    "goals": 11,
+    "kickoffISO": "2026-06-20T00:30:00.000Z"
+  },
+  {
+    "name": "Turkey vs Paraguay",
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-20T03:00:00.000Z"
+  },
+  {
+    "name": "Netherlands vs Sweden",
+    "finalScore": {
+      "home": 5,
+      "away": 1
+    },
+    "goals": 19,
+    "kickoffISO": "2026-06-20T17:00:00.000Z"
+  },
+  {
+    "name": "Germany vs Ivory Coast",
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "goals": 11,
+    "kickoffISO": "2026-06-20T20:00:00.000Z"
+  },
+  {
+    "name": "Ecuador vs Curacao",
+    "finalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "goals": 0,
+    "kickoffISO": "2026-06-21T00:00:00.000Z"
+  },
+  {
+    "name": "Tunisia vs Japan",
+    "finalScore": {
+      "home": 0,
+      "away": 4
+    },
+    "goals": 12,
+    "kickoffISO": "2026-06-21T04:00:00.000Z"
+  },
+  {
+    "name": "Spain vs Saudi Arabia",
+    "finalScore": {
+      "home": 4,
+      "away": 0
+    },
+    "goals": 12,
+    "kickoffISO": "2026-06-21T16:00:00.000Z"
+  },
+  {
+    "name": "Belgium vs Iran",
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "goals": 2,
+    "kickoffISO": "2026-06-21T19:00:00.000Z"
+  },
+  {
+    "name": "Uruguay vs Cape Verde",
+    "finalScore": {
+      "home": 2,
+      "away": 2
+    },
+    "goals": 13,
+    "kickoffISO": "2026-06-21T22:00:00.000Z"
+  },
+  {
+    "name": "New Zealand vs Egypt",
+    "finalScore": {
+      "home": 1,
+      "away": 3
+    },
+    "goals": 10,
+    "kickoffISO": "2026-06-22T01:00:00.000Z"
+  },
+  {
+    "name": "Argentina vs Austria",
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "goals": 6,
+    "kickoffISO": "2026-06-22T17:00:00.000Z"
+  },
+  {
+    "name": "France vs Iraq",
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-22T21:00:00.000Z"
+  },
+  {
+    "name": "Norway vs Senegal",
+    "finalScore": {
+      "home": 3,
+      "away": 2
+    },
+    "goals": 15,
+    "kickoffISO": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "name": "Jordan vs Algeria",
+    "finalScore": {
+      "home": 1,
+      "away": 2
+    },
+    "goals": 8,
+    "kickoffISO": "2026-06-23T03:00:00.000Z"
+  },
+  {
+    "name": "Portugal vs Uzbekistan",
+    "finalScore": {
+      "home": 5,
+      "away": 1
+    },
+    "goals": 16,
+    "kickoffISO": "2026-06-23T17:00:00.000Z"
+  },
+  {
+    "name": "England vs Ghana",
+    "finalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "goals": 0,
+    "kickoffISO": "2026-06-23T20:00:00.000Z"
+  },
+  {
+    "name": "Panama vs Croatia",
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-23T23:00:00.000Z"
+  },
+  {
+    "name": "Colombia vs Congo DR",
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "goals": 7,
+    "kickoffISO": "2026-06-24T02:00:00.000Z"
+  },
+  {
+    "name": "Switzerland vs Canada",
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "goals": 8,
+    "kickoffISO": "2026-06-24T19:00:00.000Z"
+  },
+  {
+    "name": "Bosnia & Herzegovina vs Qatar",
+    "finalScore": {
+      "home": 3,
+      "away": 1
+    },
+    "goals": 13,
+    "kickoffISO": "2026-06-24T19:00:00.000Z"
+  },
+  {
+    "name": "Morocco vs Haiti",
+    "finalScore": {
+      "home": 4,
+      "away": 2
+    },
+    "goals": 18,
+    "kickoffISO": "2026-06-24T22:00:00.000Z"
+  },
+  {
+    "name": "Scotland vs Brazil",
+    "finalScore": {
+      "home": 0,
+      "away": 3
+    },
+    "goals": 11,
+    "kickoffISO": "2026-06-24T22:01:00.000Z"
+  },
+  {
+    "name": "South Africa vs South Korea",
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-25T01:00:00.000Z"
+  },
+  {
+    "name": "Czech Republic vs Mexico",
+    "finalScore": {
+      "home": 0,
+      "away": 3
+    },
+    "goals": 9,
+    "kickoffISO": "2026-06-25T01:00:00.000Z"
+  },
+  {
+    "name": "Ecuador vs Germany",
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "goals": 9,
+    "kickoffISO": "2026-06-25T20:00:00.000Z"
+  },
+  {
+    "name": "Curacao vs Ivory Coast",
+    "finalScore": {
+      "home": 0,
+      "away": 2
+    },
+    "goals": 6,
+    "kickoffISO": "2026-06-25T20:00:00.000Z"
+  },
+  {
+    "name": "Tunisia vs Netherlands",
+    "finalScore": {
+      "home": 1,
+      "away": 3
+    },
+    "goals": 12,
+    "kickoffISO": "2026-06-25T23:00:00.000Z"
+  },
+  {
+    "name": "Japan vs Sweden",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 6,
+    "kickoffISO": "2026-06-25T23:00:00.000Z"
+  },
+  {
+    "name": "Paraguay vs Australia",
+    "finalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "goals": 0,
+    "kickoffISO": "2026-06-26T02:00:00.000Z"
+  },
+  {
+    "name": "Turkey vs USA",
+    "finalScore": {
+      "home": 3,
+      "away": 2
+    },
+    "goals": 16,
+    "kickoffISO": "2026-06-26T02:00:00.000Z"
+  },
+  {
+    "name": "Norway vs France",
+    "finalScore": {
+      "home": 1,
+      "away": 4
+    },
+    "goals": 15,
+    "kickoffISO": "2026-06-26T19:00:00.000Z"
+  },
+  {
+    "name": "Senegal vs Iraq",
+    "finalScore": {
+      "home": 5,
+      "away": 0
+    },
+    "goals": 15,
+    "kickoffISO": "2026-06-26T19:00:00.000Z"
+  },
+  {
+    "name": "Cape Verde vs Saudi Arabia",
+    "finalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "goals": 0,
+    "kickoffISO": "2026-06-27T00:00:00.000Z"
+  },
+  {
+    "name": "Uruguay vs Spain",
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-27T00:00:00.000Z"
+  },
+  {
+    "name": "Egypt vs Iran",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 7,
+    "kickoffISO": "2026-06-27T03:00:00.000Z"
+  },
+  {
+    "name": "New Zealand vs Belgium",
+    "finalScore": {
+      "home": 1,
+      "away": 5
+    },
+    "goals": 18,
+    "kickoffISO": "2026-06-27T03:00:00.000Z"
+  },
+  {
+    "name": "Croatia vs Ghana",
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "goals": 9,
+    "kickoffISO": "2026-06-27T21:00:00.000Z"
+  },
+  {
+    "name": "Panama vs England",
+    "finalScore": {
+      "home": 1,
+      "away": 2
+    },
+    "goals": 7,
+    "kickoffISO": "2026-06-27T21:00:00.000Z"
+  },
+  {
+    "name": "Colombia vs Portugal",
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "goals": 1,
+    "kickoffISO": "2026-06-27T23:31:00.000Z"
+  },
+  {
+    "name": "Congo DR vs Uzbekistan",
+    "finalScore": {
+      "home": 3,
+      "away": 1
+    },
+    "goals": 13,
+    "kickoffISO": "2026-06-27T23:31:00.000Z"
+  },
+  {
+    "name": "Jordan vs Argentina",
+    "finalScore": {
+      "home": 1,
+      "away": 3
+    },
+    "goals": 11,
+    "kickoffISO": "2026-06-28T02:00:00.000Z"
+  },
+  {
+    "name": "Algeria vs Austria",
+    "finalScore": {
+      "home": 3,
+      "away": 3
+    },
+    "goals": 18,
+    "kickoffISO": "2026-06-28T02:00:00.000Z"
+  },
+  {
+    "name": "South Africa vs Canada",
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "goals": 3,
+    "kickoffISO": "2026-06-28T19:00:00.000Z"
+  },
+  {
+    "name": "Brazil vs Japan",
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "goals": 9,
+    "kickoffISO": "2026-06-29T17:00:00.000Z"
+  },
+  {
+    "name": "Germany vs Paraguay",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 8,
+    "kickoffISO": "2026-06-29T20:30:00.000Z"
+  },
+  {
+    "name": "Netherlands vs Morocco",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 6,
+    "kickoffISO": "2026-06-30T01:00:00.000Z"
+  },
+  {
+    "name": "Ivory Coast vs Norway",
+    "finalScore": {
+      "home": 1,
+      "away": 2
+    },
+    "goals": 9,
+    "kickoffISO": "2026-06-30T17:00:00.000Z"
+  },
+  {
+    "name": "France vs Sweden",
+    "finalScore": {
+      "home": 3,
+      "away": 0
+    },
+    "goals": 10,
+    "kickoffISO": "2026-06-30T21:00:00.000Z"
+  },
+  {
+    "name": "Mexico vs Ecuador",
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "goals": 6,
+    "kickoffISO": "2026-07-01T02:00:00.000Z"
+  },
+  {
+    "name": "England vs Congo DR",
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "goals": 9,
+    "kickoffISO": "2026-07-01T16:00:00.000Z"
+  },
+  {
+    "name": "Belgium vs Senegal",
+    "finalScore": {
+      "home": 2,
+      "away": 2
+    },
+    "goals": 12,
+    "kickoffISO": "2026-07-01T20:00:00.000Z"
+  },
+  {
+    "name": "USA vs Bosnia & Herzegovina",
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "goals": 8,
+    "kickoffISO": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "name": "Spain vs Austria",
+    "finalScore": {
+      "home": 3,
+      "away": 0
+    },
+    "goals": 10,
+    "kickoffISO": "2026-07-02T19:00:00.000Z"
+  },
+  {
+    "name": "Portugal vs Croatia",
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "goals": 9,
+    "kickoffISO": "2026-07-02T23:00:00.000Z"
+  },
+  {
+    "name": "Switzerland vs Algeria",
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "goals": 6,
+    "kickoffISO": "2026-07-03T03:00:00.000Z"
+  },
+  {
+    "name": "Australia vs Egypt",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 6,
+    "kickoffISO": "2026-07-03T18:00:00.000Z"
+  },
+  {
+    "name": "Argentina vs Cape Verde",
+    "finalScore": {
+      "home": 2,
+      "away": 2
+    },
+    "goals": 12,
+    "kickoffISO": "2026-07-03T22:00:00.000Z"
+  },
+  {
+    "name": "Colombia vs Ghana",
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "goals": 4,
+    "kickoffISO": "2026-07-04T01:30:00.000Z"
+  },
+  {
+    "name": "Canada vs Morocco",
+    "finalScore": {
+      "home": 0,
+      "away": 3
+    },
+    "goals": 9,
+    "kickoffISO": "2026-07-04T17:00:00.000Z"
+  },
+  {
+    "name": "Paraguay vs France",
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "goals": 0,
+    "kickoffISO": "2026-07-04T21:03:00.000Z"
+  },
+  {
+    "name": "Brazil vs Norway",
+    "finalScore": {
+      "home": 1,
+      "away": 2
+    },
+    "goals": 7,
+    "kickoffISO": "2026-07-05T20:00:00.000Z"
+  },
+  {
+    "name": "Mexico vs England",
+    "finalScore": {
+      "home": 2,
+      "away": 3
+    },
+    "goals": 9,
+    "kickoffISO": "2026-07-06T01:00:00.000Z"
+  },
+  {
+    "name": "Portugal vs Spain",
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "goals": 3,
+    "kickoffISO": "2026-07-06T19:00:00.000Z"
+  },
+  {
+    "name": "USA vs Belgium",
+    "finalScore": {
+      "home": 1,
+      "away": 4
+    },
+    "goals": 15,
+    "kickoffISO": "2026-07-07T00:00:00.000Z"
+  },
+  {
+    "name": "Argentina vs Egypt",
+    "finalScore": {
+      "home": 3,
+      "away": 2
+    },
+    "goals": 15,
+    "kickoffISO": "2026-07-07T16:00:00.000Z"
+  },
+  {
+    "name": "Switzerland vs Colombia",
+    "finalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "goals": 0,
+    "kickoffISO": "2026-07-07T20:00:00.000Z"
+  },
+  {
+    "name": "France vs Morocco",
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "goals": 7,
+    "kickoffISO": "2026-07-09T20:00:00.000Z"
+  },
+  {
+    "name": "Spain vs Belgium",
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "goals": 9,
+    "kickoffISO": "2026-07-10T19:00:00.000Z"
+  },
+  {
+    "name": "Norway vs England",
+    "finalScore": {
+      "home": 1,
+      "away": 2
+    },
+    "goals": 11,
+    "kickoffISO": "2026-07-11T21:00:00.000Z"
+  },
+  {
+    "name": "Argentina vs Switzerland",
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "goals": 6,
+    "kickoffISO": "2026-07-12T01:00:00.000Z"
+  },
+  {
+    "name": "France vs Spain",
+    "finalScore": {
+      "home": 0,
+      "away": 2
+    },
+    "goals": 4,
+    "kickoffISO": "2026-07-14T19:00:00.000Z"
+  },
+  {
+    "name": "England vs Argentina",
+    "finalScore": {
+      "home": 1,
+      "away": 2
+    },
+    "goals": 9,
+    "kickoffISO": "2026-07-15T19:00:00.000Z"
+  },
+  {
+    "name": "France vs England",
+    "finalScore": {
+      "home": 4,
+      "away": 6
+    },
+    "goals": 28,
+    "kickoffISO": "2026-07-18T21:00:00.000Z"
+  }
+]
